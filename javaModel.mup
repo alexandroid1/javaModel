@@ -1059,7 +1059,11 @@
           "formatVersion": 2,
           "attr": {
             "style": {},
-            "collapsed": true
+            "position": [
+              111,
+              155.25,
+              1
+            ]
           },
           "ideas": {
             "1": {
@@ -1087,18 +1091,7 @@
                 },
                 "5": {
                   "title": "drink water",
-                  "ideas": {
-                    "1": {
-                      "title": "+ green tea (hot)",
-                      "ideas": {
-                        "1": {
-                          "title": "+ mentol",
-                          "id": 719
-                        }
-                      },
-                      "id": 718
-                    }
-                  },
+                  "ideas": {},
                   "id": 717
                 },
                 "6": {
@@ -1250,25 +1243,21 @@
               "id": 738
             },
             "4": {
-              "title": "секреты",
+              "title": "study",
               "attr": {
                 "style": {},
                 "collapsed": true
               },
               "ideas": {
                 "1": {
-                  "title": "не успевать, но равномерно по заданиям",
-                  "id": 743
+                  "title": "Start the day with practice",
+                  "id": 868
                 },
                 "2": {
-                  "title": "начать день с практики",
-                  "id": 744
+                  "title": "   theory - in the evening",
+                  "id": 869
                 },
                 "3": {
-                  "title": "теория - вечером",
-                  "id": 745
-                },
-                "4": {
                   "title": "mind-map",
                   "attr": {
                     "style": {},
@@ -1277,12 +1266,12 @@
                   "ideas": {
                     "1": {
                       "title": "https://www.mindmup.com/#m:new",
-                      "id": 747
+                      "id": 871
                     }
                   },
-                  "id": 746
+                  "id": 870
                 },
-                "5": {
+                "4": {
                   "title": "online timer",
                   "attr": {
                     "style": {},
@@ -1291,35 +1280,30 @@
                   "ideas": {
                     "1": {
                       "title": "http://www.onlinetimer.ru/#!/timer/2016-01-03T12:27:43/2016-01-03T12:22:43/stop/300/6/100/t/run/",
-                      "id": 749
+                      "id": 873
                     }
                   },
-                  "id": 748
+                  "id": 872
                 },
-                "6": {
+                "5": {
                   "title": "UML tools online",
                   "attr": {
+                    "style": {},
                     "collapsed": true
                   },
                   "ideas": {
                     "1": {
-                      "title": "Диаграмма без названия.html - draw.io",
-                      "ideas": {
-                        "1": {
-                          "title": "https://www.draw.io/#D%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.html",
-                          "attr": {
-                            "style": {}
-                          },
-                          "id": 752
-                        }
+                      "title": "https://www.draw.io/#D%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.html",
+                      "attr": {
+                        "style": {}
                       },
-                      "id": 751
+                      "id": 875
                     }
                   },
-                  "id": 750
+                  "id": 874
                 }
               },
-              "id": 742
+              "id": 867
             },
             "5": {
               "title": "Путь иррационала в IT",
