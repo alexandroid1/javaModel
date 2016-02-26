@@ -750,160 +750,160 @@
           "id": 808
         },
         "2": {
-          "title": "снизу вверх ",
+          "title": "bottom up",
           "attr": {
             "style": {},
             "collapsed": true
           },
           "ideas": {
             "1": {
-              "title": "от бинов",
+              "title": "from beans",
               "attr": {
                 "style": {}
               },
               "ideas": {
                 "1": {
-                  "title": "объект",
+                  "title": "to object",
                   "attr": {
                     "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "получение и систематизация всей доступной информации по объекту",
+                      "title": "receive and organize all available information about the object",
                       "attr": {
                         "style": {},
                         "collapsed": true
                       },
                       "ideas": {
                         "1": {
-                          "title": "выявить",
+                          "title": "to identify",
                           "ideas": {
                             "1": {
-                              "title": "принципы работы",
-                              "id": 670
+                              "title": "work principles",
+                              "id": 838
                             },
                             "2": {
-                              "title": "закономерности",
-                              "id": 671
+                              "title": "laws",
+                              "id": 839
                             },
                             "3": {
-                              "title": "сложные и простые области использования",
-                              "id": 672
+                              "title": "complex and simple field of use",
+                              "id": 840
                             },
                             "4": {
-                              "title": "применения",
-                              "id": 673
+                              "title": "adaptation",
+                              "id": 841
                             },
                             "5": {
-                              "title": "имплементации",
-                              "id": 674
+                              "title": "implementation",
+                              "id": 842
                             }
                           },
-                          "id": 669
+                          "id": 837
                         }
                       },
-                      "id": 668
+                      "id": 836
                     },
                     "2": {
-                      "title": "информация формализуется",
+                      "title": "information be formalized",
                       "attr": {
                         "style": {},
                         "collapsed": true
                       },
                       "ideas": {
                         "1": {
-                          "title": "Представить содержательную сторону ",
-                          "id": 676
+                          "title": "Present the content side",
+                          "id": 844
                         }
                       },
-                      "id": 675
+                      "id": 843
                     },
                     "3": {
-                      "title": "строим модель объекта",
+                      "title": "We construct a model of an object",
                       "attr": {
                         "style": {},
                         "collapsed": true
                       },
                       "ideas": {
                         "1": {
-                          "title": "модель структурируется",
+                          "title": "structured model",
                           "attr": {
                             "style": {}
                           },
                           "ideas": {
                             "1": {
-                              "title": "уточнение модели на соответствие ",
+                              "title": "   specification model for compliance",
                               "ideas": {
                                 "1": {
-                                  "title": "базовым понятиям",
-                                  "id": 680
+                                  "title": "   basic concepts",
+                                  "id": 848
                                 },
                                 "2": {
-                                  "title": "правилам",
+                                  "title": "   the rules",
                                   "attr": {
                                     "style": {}
                                   },
-                                  "id": 681
+                                  "id": 849
                                 },
                                 "3": {
-                                  "title": "условиям использования",
-                                  "id": 682
+                                  "title": "   conditions of use",
+                                  "id": 850
                                 }
                               },
-                              "id": 679
+                              "id": 847
                             }
                           },
-                          "id": 678
+                          "id": 846
                         },
                         "2": {
-                          "title": "модель детализируется",
+                          "title": "model is detailed",
                           "attr": {
                             "style": {}
                           },
                           "ideas": {
                             "1": {
-                              "title": "разбиваем на блоки",
+                              "title": "divided into blocks",
                               "ideas": {
                                 "1": {
-                                  "title": "до тех пор, пока не будет достигнут",
+                                  "title": "until you meet",
                                   "ideas": {
                                     "1": {
-                                      "title": "минимально возможный неделимый ",
+                                      "title": "the smallest possible indivisible",
                                       "attr": {
                                         "style": {}
                                       },
                                       "ideas": {
                                         "1": {
-                                          "title": "модуль",
-                                          "id": 687
+                                          "title": "module",
+                                          "id": 855
                                         },
                                         "2": {
-                                          "title": "блок",
-                                          "id": 688
+                                          "title": "block",
+                                          "id": 856
                                         }
                                       },
-                                      "id": 686
+                                      "id": 854
                                     }
                                   },
-                                  "id": 685
+                                  "id": 853
                                 }
                               },
-                              "id": 684
+                              "id": 852
                             }
                           },
-                          "id": 683
+                          "id": 851
                         }
                       },
-                      "id": 677
+                      "id": 845
                     }
                   },
-                  "id": 667
+                  "id": 835
                 }
               },
-              "id": 666
+              "id": 834
             }
           },
-          "id": 665
+          "id": 833
         },
         "3": {
           "title": "UML",
@@ -5124,7 +5124,7 @@
       "id": 3
     },
     "2.5": {
-      "title": "web layout",
+      "title": "web-layout",
       "attr": {
         "style": {},
         "collapsed": true
