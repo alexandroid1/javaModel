@@ -5129,14 +5129,13 @@
       "id": 3
     },
     "2.5": {
-      "title": "верстка",
+      "title": "web layout",
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "1": {
-          "title": "списки каналов",
+          "title": "List of channels",
           "attr": {
             "collapsed": true,
             "style": {}
