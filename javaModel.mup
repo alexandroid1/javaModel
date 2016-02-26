@@ -957,8 +957,8 @@
             "1": {
               "title": "Uncle Bob",
               "attr": {
-                "collapsed": true,
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -977,7 +977,7 @@
               "id": 696
             },
             "2": {
-              "title": "7 золотых правил одного программиста",
+              "title": "7 golden rules of a programmer",
               "attr": {
                 "style": {},
                 "collapsed": true
@@ -991,65 +991,65 @@
               "id": 700
             },
             "3": {
-              "title": "переключение",
+              "title": "switching",
               "attr": {
                 "style": {},
                 "collapsed": true
               },
               "ideas": {
                 "1": {
-                  "title": "со стратегии",
+                  "title": "from strategies",
                   "ideas": {
                     "1": {
-                      "title": "на тактику",
-                      "id": 704
+                      "title": "to the tactics",
+                      "id": 860
                     }
                   },
-                  "id": 703
+                  "id": 859
                 },
                 "2": {
-                  "title": "и наоборот",
+                  "title": "and vice versa",
                   "attr": {
                     "style": {}
                   },
-                  "id": 705
+                  "id": 861
                 }
               },
-              "id": 702
+              "id": 858
             },
             "4": {
-              "title": "частые коммиты",
+              "title": "   frequent commits",
               "attr": {
                 "style": {},
                 "collapsed": true
               },
               "ideas": {
                 "1": {
-                  "title": "каждые",
+                  "title": "every",
                   "ideas": {
                     "1": {
-                      "title": "5-15 минут",
-                      "id": 708
+                      "title": "5-15 minutes",
+                      "id": 864
                     }
                   },
-                  "id": 707
+                  "id": 863
                 },
                 "2": {
-                  "title": "после рефакторинга",
+                  "title": "after refactoring",
                   "attr": {
                     "style": {}
                   },
-                  "id": 709
+                  "id": 865
                 },
                 "3": {
-                  "title": "продвижение",
+                  "title": "progression",
                   "attr": {
                     "style": {}
                   },
-                  "id": 710
+                  "id": 866
                 }
               },
-              "id": 706
+              "id": 862
             }
           },
           "id": 695
