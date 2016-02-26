@@ -580,10 +580,9 @@
       "id": 517
     },
     "3": {
-      "title": "проектирование",
+      "title": "development",
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "1": {
@@ -5131,7 +5130,8 @@
     "2.5": {
       "title": "web layout",
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -5265,8 +5265,8 @@
         "4": {
           "title": "html tags",
           "attr": {
-            "collapsed": true,
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
