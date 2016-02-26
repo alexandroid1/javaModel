@@ -750,7 +750,7 @@
           "id": 808
         },
         "2": {
-          "title": "bottom up",
+          "title": "bottom-up",
           "attr": {
             "style": {},
             "collapsed": true
@@ -913,10 +913,10 @@
           },
           "ideas": {
             "1": {
-              "title": "Диаграмма последовательности",
+              "title": "sequence diagram",
               "attr": {
-                "collapsed": true,
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -933,8 +933,8 @@
             "2": {
               "title": "\n    \n      \n      \n      \n          \n        \n\t\tA Quick Introduction to UML Sequence Diagrams ",
               "attr": {
-                "collapsed": true,
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
