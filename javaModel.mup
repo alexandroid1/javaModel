@@ -5137,8 +5137,8 @@
         "1": {
           "title": "List of channels",
           "attr": {
-            "collapsed": true,
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -5148,7 +5148,7 @@
               },
               "ideas": {
                 "1": {
-                  "title": "английские каналы",
+                  "title": "   english channels",
                   "ideas": {
                     "1": {
                       "title": "https://github.com/forwebdev/channels/blob/master/en.md",
@@ -5158,7 +5158,7 @@
                   "id": 609
                 },
                 "2": {
-                  "title": "Русскоязычные каналы",
+                  "title": "Russian-speaking channels",
                   "ideas": {
                     "1": {
                       "title": "https://github.com/forwebdev/channels/blob/master/ru.md",
@@ -5176,8 +5176,8 @@
         "2": {
           "title": "jQuery",
           "attr": {
-            "collapsed": true,
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -5205,8 +5205,8 @@
         "3": {
           "title": "\n      \n        LearnWebCode\n      \n    ",
           "attr": {
-            "collapsed": true,
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -5219,65 +5219,42 @@
                 "style": {}
               },
               "ideas": {
-                "1": {
-                  "title": "1",
+                "2": {
+                  "title": "JavaScript and jQuery Tutorial (for Beginners)\n  ",
+                  "attr": {
+                    "style": {}
+                  },
                   "ideas": {
                     "1": {
-                      "title": "JavaScript and jQuery Tutorial (for Beginners)\n  ",
-                      "attr": {
-                        "style": {}
-                      },
+                      "title": "https://www.youtube.com/watch?v=1vMFpT0h-WI&list=PLpcSpRrAaOarfQTVO9SynUNmbz9yUgvkK",
                       "ideas": {
                         "1": {
-                          "title": "https://www.youtube.com/watch?v=1vMFpT0h-WI&list=PLpcSpRrAaOarfQTVO9SynUNmbz9yUgvkK",
+                          "title": "Behavior",
                           "ideas": {
-                            "1": {
-                              "title": "Behavior",
-                              "ideas": {
-                                "1": {
-                                  "title": "Поведение",
-                                  "ideas": {
-                                    "1": {
-                                      "title": "Event handling",
-                                      "attr": {
-                                        "style": {}
-                                      },
-                                      "ideas": {
-                                        "1": {
-                                          "title": "   обработка событий",
-                                          "id": 626
-                                        }
-                                      },
-                                      "id": 625
-                                    },
-                                    "2": {
-                                      "title": "DOM (Document Object Model) Traversal",
-                                      "ideas": {
-                                        "1": {
-                                          "title": "обход Документной Объектной модели",
-                                          "id": 628
-                                        }
-                                      },
-                                      "id": 627
-                                    }
-                                  },
-                                  "id": 624
-                                }
+                            "2": {
+                              "title": "Event handling",
+                              "attr": {
+                                "style": {}
                               },
-                              "id": 623
+                              "ideas": {},
+                              "id": 625
+                            },
+                            "3": {
+                              "title": "DOM (Document Object Model) Traversal",
+                              "ideas": {},
+                              "id": 627,
+                              "attr": {
+                                "style": {}
+                              }
                             }
                           },
-                          "id": 622
+                          "id": 623
                         }
                       },
-                      "id": 621
-                    },
-                    "2": {
-                      "title": "3:20 min",
-                      "id": 629
+                      "id": 622
                     }
                   },
-                  "id": 620
+                  "id": 621
                 }
               },
               "id": 619
@@ -5286,7 +5263,7 @@
           "id": 617
         },
         "4": {
-          "title": "теги ",
+          "title": "html tags",
           "attr": {
             "collapsed": true,
             "style": {}
