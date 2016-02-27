@@ -23,7 +23,7 @@ GitHub way :)
 
 4) click Extensions -> Github
 
-5) click <Save> -> <Github> , autentificate on github
+5) click Save -> Github , autentificate on github
 
 6) click File -> Open/import -> From GitHub
 
