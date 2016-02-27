@@ -3531,7 +3531,8 @@
                 "2": {
                   "title": "JUnit",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3619,8 +3620,7 @@
                 "3": {
                   "title": "TestNG",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -3628,7 +3628,7 @@
                       "id": 302
                     },
                     "2": {
-                      "title": "Тестирование в Java. TestNG",
+                      "title": "Testing in Java. TestNG",
                       "ideas": {
                         "1": {
                           "title": "http://habrahabr.ru/post/121234/",
