@@ -4253,8 +4253,7 @@
                                                         "1": {
                                                           "title": "get connection",
                                                           "attr": {
-                                                            "style": {},
-                                                            "collapsed": true
+                                                            "style": {}
                                                           },
                                                           "ideas": {
                                                             "1": {
@@ -4387,7 +4386,7 @@
                                           "title": "AJAX (Jquery)",
                                           "ideas": {
                                             "1": {
-                                              "title": "сам обработает ответ",
+                                              "title": " handles the response",
                                               "ideas": {
                                                 "1": {
                                                   "title": "JS",
@@ -4409,13 +4408,17 @@
                                       "id": 382
                                     }
                                   },
-                                  "id": 381
+                                  "id": 381,
+                                  "attr": {
+                                    "collapsed": true,
+                                    "style": {}
+                                  }
                                 },
                                 "2": {
                                   "title": "external redirects",
                                   "ideas": {
                                     "1": {
-                                      "title": "на другой контроллер",
+                                      "title": "   to another controller",
                                       "ideas": {
                                         "1": {
                                           "title": "response 301, 302",
