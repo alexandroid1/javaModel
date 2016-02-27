@@ -4208,7 +4208,8 @@
                         "1": {
                           "title": "   session receive / transmit",
                           "attr": {
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           },
                           "ideas": {
                             "1": {
@@ -4451,7 +4452,7 @@
                           "id": 379
                         },
                         "2": {
-                          "title": "Как создать Servlet? Полное руководство",
+                          "title": "   How to create a Servlet? The Complete guide",
                           "attr": {
                             "style": {},
                             "collapsed": true
@@ -4465,7 +4466,7 @@
                           "id": 412
                         },
                         "3": {
-                          "title": "Сервлеты. Жизненный цикл",
+                          "title": "   Servlets. Life cycle",
                           "attr": {
                             "style": {},
                             "collapsed": true
@@ -4486,7 +4487,7 @@
                           "id": 414
                         },
                         "4": {
-                          "title": "Java. HTTP протокол и работа с WEB",
+                          "title": "Java. HTTP protocol and work with WEB",
                           "attr": {
                             "style": {},
                             "collapsed": true
