@@ -1703,26 +1703,23 @@
         "2": {
           "title": "java Standard",
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           },
           "ideas": {
             "1": {
               "title": "core Java",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
                   "title": "Java 8",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "про лямбды",
+                      "title": "lambda",
                       "attr": {
                         "style": {},
                         "collapsed": true
@@ -1742,8 +1739,8 @@
                     "2": {
                       "title": "Java 8 Tutorial",
                       "attr": {
-                        "collapsed": true,
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -1784,8 +1781,8 @@
                     "5": {
                       "title": "Java 8 forEach examples",
                       "attr": {
-                        "collapsed": true,
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -1810,7 +1807,7 @@
                           "id": 31
                         },
                         "2": {
-                          "title": "схема",
+                          "title": "   List, Set, Map",
                           "attr": {
                             "style": {},
                             "collapsed": true
@@ -1820,150 +1817,192 @@
                               "title": "http://wiki3.cosc.canterbury.ac.nz/images/e/e9/JavaCollections.png",
                               "ideas": {
                                 "1": {
-                                  "title": "\n    List - LinkedList, ArrayList\n    Set - HashSet, TreeSet, LinkedHashSet\n    Map - HashMap, TreeMap, LinkedHashMap\n\n",
+                                  "title": "\n    Map - HashMap, TreeMap, LinkedHashMap\n\n",
+                                  "attr": {
+                                    "style": {},
+                                    "collapsed": true
+                                  },
+                                  "ideas": {
+                                    "3": {
+                                      "title": "Map - storage of key-value table with the ability to draw on the key value, delete on a key, add a bunch of new key-value, iterated over the keys and values. ",
+                                      "id": 37,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Keys in the map can not be duplicated (as a value in the Set). The values attached to the keys - can be any objects of a given type.",
+                                          "id": 928
+                                        }
+                                      }
+                                    },
+                                    "4": {
+                                      "title": "HashMap",
+                                      "attr": {
+                                        "style": {},
+                                        "collapsed": true
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://habrahabr.ru/post/128017/",
+                                          "id": 43
+                                        },
+                                        "2": {
+                                          "title": "Using Map in Java",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "http://www.quizful.net/post/Using-Map-in-Jave",
+                                              "id": 45
+                                            }
+                                          },
+                                          "id": 44
+                                        },
+                                        "3": {
+                                          "title": "make a Map from JSON",
+                                          "attr": {
+                                            "position": [
+                                              88.5,
+                                              63.5,
+                                              1
+                                            ],
+                                            "style": {}
+                                          },
+                                          "ideas": {
+                                            "1": {
+                                              "title": "http://stackoverflow.com/questions/3408985/json-array-iteration-in-android-java",
+                                              "id": 47
+                                            }
+                                          },
+                                          "id": 46
+                                        },
+                                        "4": {
+                                          "title": "How does HashMap in Java\n\t\t\t            \t\t",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "http://info.javarush.ru/translation/2013/10/22/%D0%9A%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-HashMap-%D0%B2-Java.html",
+                                              "id": 49
+                                            }
+                                          },
+                                          "id": 48
+                                        }
+                                      },
+                                      "id": 42
+                                    },
+                                    "5": {
+                                      "title": "LinkedHashMap",
+                                      "attr": {
+                                        "style": {},
+                                        "collapsed": true
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://habrahabr.ru/post/129037/",
+                                          "id": 54
+                                        }
+                                      },
+                                      "id": 53
+                                    }
+                                  },
+                                  "id": 34
+                                },
+                                "0.5": {
+                                  "title": "\n    List - LinkedList, ArrayList",
+                                  "id": 925,
                                   "attr": {
                                     "style": {},
                                     "collapsed": true
                                   },
                                   "ideas": {
                                     "1": {
-                                      "title": "List - упорядоченный список элементов с возможностью: добавлять, удалять, изменять элементы как по индексу так и по значению, а так же итерироваться по всему списку.",
-                                      "id": 35
+                                      "title": "   List - an ordered list of elements with the ability to: add, delete, modify elements of both the index and by value, and also iterated the entire list.",
+                                      "id": 35,
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {}
                                     },
                                     "2": {
-                                      "title": "Set - список уникальных элементов с возможностью делать все то же самое что и List, только без работы с элементами по индексу. Тут такого понятия нет, зато есть гарантия что внутри будут всегда уникальные элементы, чего List не может гарантировать (цель у него другая).",
-                                      "id": 36
+                                      "title": "ArrayList",
+                                      "attr": {
+                                        "style": {},
+                                        "collapsed": true
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://habrahabr.ru/post/128269/",
+                                          "id": 39
+                                        }
+                                      },
+                                      "id": 38
                                     },
                                     "3": {
-                                      "title": "Map - хранение таблицы ключ-значение с возможностью по ключу вытянуть значение, удалять по ключу, добавлять новую связку ключ-значение, итерироваться по лючам и значениям. Ключи в map не могут дублироваться (как значения в Set). Значения привязанные к ключам - могут быть любые объекты заданного типа.  ",
-                                      "id": 37
+                                      "title": "LinkedList",
+                                      "attr": {
+                                        "style": {},
+                                        "collapsed": true
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://habrahabr.ru/post/127864/",
+                                          "id": 41
+                                        }
+                                      },
+                                      "id": 40
                                     }
+                                  }
+                                },
+                                "0.75": {
+                                  "title": "\n    Set - HashSet, TreeSet, LinkedHashSet",
+                                  "id": 926,
+                                  "attr": {
+                                    "style": {},
+                                    "collapsed": true
                                   },
-                                  "id": 34
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Set - a list of unique items that can do the same as List, but without the work with elements of the index. ",
+                                      "id": 36,
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": " there is a guarantee that the inside will always be unique elements, which can not guarantee the List (he has another purpose).",
+                                          "id": 927
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "title": "Sets: Set, HashSet, LinkedHashSet, TreeSet",
+                                      "attr": {
+                                        "style": {},
+                                        "collapsed": true
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://developer.alexanderklimov.ru/android/java/set.php",
+                                          "id": 51
+                                        },
+                                        "2": {
+                                          "title": "http://www.javaprobooks.ru/java-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/java-collections-set-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-java.html",
+                                          "id": 52
+                                        }
+                                      },
+                                      "id": 50
+                                    }
+                                  }
                                 }
                               },
-                              "id": 33
+                              "id": 33,
+                              "attr": {
+                                "style": {}
+                              }
                             }
                           },
                           "id": 32
                         },
-                        "3": {
-                          "title": "ArrayList",
-                          "attr": {
-                            "style": {},
-                            "collapsed": true
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "http://habrahabr.ru/post/128269/",
-                              "id": 39
-                            }
-                          },
-                          "id": 38
-                        },
-                        "4": {
-                          "title": "LinkedList",
-                          "attr": {
-                            "collapsed": true,
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "http://habrahabr.ru/post/127864/",
-                              "id": 41
-                            }
-                          },
-                          "id": 40
-                        },
-                        "5": {
-                          "title": "HashMap",
-                          "attr": {
-                            "style": {},
-                            "collapsed": true
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "http://habrahabr.ru/post/128017/",
-                              "id": 43
-                            },
-                            "2": {
-                              "title": "Использование Map в Java",
-                              "ideas": {
-                                "1": {
-                                  "title": "http://www.quizful.net/post/Using-Map-in-Jave",
-                                  "id": 45
-                                }
-                              },
-                              "id": 44
-                            },
-                            "3": {
-                              "title": "make a Map from JSON",
-                              "attr": {
-                                "position": [
-                                  88.5,
-                                  63.5,
-                                  1
-                                ],
-                                "style": {}
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "http://stackoverflow.com/questions/3408985/json-array-iteration-in-android-java",
-                                  "id": 47
-                                }
-                              },
-                              "id": 46
-                            },
-                            "4": {
-                              "title": "Как работает HashMap в Java\n\t\t\t            \t\t",
-                              "ideas": {
-                                "1": {
-                                  "title": "http://info.javarush.ru/translation/2013/10/22/%D0%9A%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-HashMap-%D0%B2-Java.html",
-                                  "id": 49
-                                }
-                              },
-                              "id": 48
-                            }
-                          },
-                          "id": 42
-                        },
-                        "6": {
-                          "title": "Множества: Set, HashSet, LinkedHashSet, TreeSet",
-                          "attr": {
-                            "style": {},
-                            "collapsed": true
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "http://developer.alexanderklimov.ru/android/java/set.php",
-                              "id": 51
-                            },
-                            "2": {
-                              "title": "http://www.javaprobooks.ru/java-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/java-collections-set-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-java.html",
-                              "id": 52
-                            }
-                          },
-                          "id": 50
-                        },
-                        "7": {
-                          "title": "LinkedHashMap",
-                          "attr": {
-                            "collapsed": true,
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "http://habrahabr.ru/post/129037/",
-                              "id": 54
-                            }
-                          },
-                          "id": 53
-                        },
                         "8": {
-                          "title": "hashCode() и equals()",
+                          "title": "   hashCode () and equals ()",
                           "attr": {
-                            "collapsed": true,
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           },
                           "ideas": {
                             "1": {
@@ -1973,54 +2012,11 @@
                           },
                           "id": 55
                         },
-                        "9": {
-                          "title": "english words",
-                          "attr": {
-                            "collapsed": true,
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "frequency",
-                              "attr": {
-                                "style": {}
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "частота",
-                                  "id": 59
-                                }
-                              },
-                              "id": 58
-                            }
-                          },
-                          "id": 57
-                        },
-                        "10": {
-                          "title": "Google Ranges",
-                          "attr": {
-                            "style": {},
-                            "collapsed": true
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "RangesExplained",
-                              "ideas": {
-                                "1": {
-                                  "title": "https://code.google.com/p/guava-libraries/wiki/RangesExplained",
-                                  "id": 62
-                                }
-                              },
-                              "id": 61
-                            }
-                          },
-                          "id": 60
-                        },
                         "11": {
                           "title": "Convert Set to List without creating new List",
                           "attr": {
-                            "collapsed": true,
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           },
                           "ideas": {
                             "1": {
