@@ -4506,8 +4506,7 @@
                     "4": {
                       "title": "servlet api jar",
                       "attr": {
-                        "style": {},
-                        "collapsed": true
+                        "style": {}
                       },
                       "ideas": {
                         "1": {
@@ -4517,8 +4516,11 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "в папке tomcat lib",
-                              "id": 421
+                              "title": "   in tomcat lib folder",
+                              "id": 421,
+                              "attr": {
+                                "style": {}
+                              }
                             }
                           },
                           "id": 420
