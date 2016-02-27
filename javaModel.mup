@@ -3448,7 +3448,8 @@
                 "1": {
                   "title": "tests",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3530,12 +3531,11 @@
                 "2": {
                   "title": "JUnit",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "Unit тестирование с JUnit",
+                      "title": "Unit testing with JUnit",
                       "attr": {
                         "style": {}
                       },
@@ -3548,7 +3548,7 @@
                       "id": 286
                     },
                     "2": {
-                      "title": "Тестирование в Java. JUnit",
+                      "title": "   Testing in Java. JUnit",
                       "ideas": {
                         "1": {
                           "title": "http://habrahabr.ru/post/120101/",
@@ -3558,7 +3558,7 @@
                       "id": 288
                     },
                     "3": {
-                      "title": "JUnit 4. Перезагрузка",
+                      "title": "JUnit 4. Reboot",
                       "ideas": {
                         "1": {
                           "title": "http://www.nestor.minsk.by/kg/2007/06/kg70604.html",
@@ -3578,7 +3578,7 @@
                       "id": 292
                     },
                     "5": {
-                      "title": "Механизм правил в JUnit",
+                      "title": "The rules engine with JUnit",
                       "ideas": {
                         "1": {
                           "title": "http://blog.qatools.ru/junit/junit-rules-tutorial/",
@@ -3588,13 +3588,13 @@
                       "id": 294
                     },
                     "6": {
-                      "title": "Отличия assertSame и assertEquals в JUnit",
+                      "title": "   Differences assertSame and assertEquals with JUnit",
                       "ideas": {
                         "1": {
                           "title": "http://ru.stackoverflow.com/questions/30318/%D0%9E%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-assertsame-%D0%B8-assertequals-%D0%B2-junit",
                           "ideas": {
                             "1": {
-                              "title": "assertSame() просто сравнивает объекты при помощи оператора ==, то есть проверяет, являются ли параметры ссылками на один и тот же объект.",
+                              "title": "assertSame () simply compares the objects using the == operator, that is, checks whether the parameters referring to the same object.",
                               "id": 298
                             }
                           },
