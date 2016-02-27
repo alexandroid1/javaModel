@@ -3934,7 +3934,8 @@
                 "2": {
                   "title": "servlet API",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -4595,27 +4596,25 @@
                   "id": 427
                 },
                 "4": {
-                  "title": "Выучить основы веба и томкет. ",
+                  "title": "Learn the basics of the web and Tomcat.",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "Надо сделать к вашей бизнес-логике и DAO layer последнюю оставшуюся \nчасть — UI. ",
+                      "title": "It is necessary to make your business logic and DAO layer last remaining\n part - UI.",
                       "ideas": {
                         "1": {
-                          "title": "Пока на сервлетах и JSP. ",
+                          "title": "   While the servlet and JSP.",
                           "attr": {
-                            "style": {},
-                            "collapsed": true
+                            "style": {}
                           },
                           "ideas": {
                             "1": {
-                              "title": "Нужно сделать так, чтобы JSP \nобращались к бизнес-логике за ее данными. ",
+                              "title": "   It is necessary to make the JSP\n addressed the business logic for its data.",
                               "ideas": {
                                 "1": {
-                                  "title": "Та запрашивала данные из базы \nи возвращала их на View (JSP). ",
+                                  "title": "She requested data from the database\n and returns them to the View (JSP).",
                                   "ideas": {},
                                   "id": 436
                                 }
@@ -4623,26 +4622,41 @@
                               "id": 435
                             },
                             "2": {
-                              "title": "По нажатию на кнопки в JSP управление \nпередавалось в сервлеты, которые отправляли команды бизнес-логике \nна изменение состояния.",
+                              "title": "By clicking on the button in the JSP ",
                               "attr": {
                                 "style": {}
                               },
                               "ideas": {
-                                "1": {
-                                  "title": " А та, в свою очередь, меняла данные в базе \nс помощью DAO layer. ",
-                                  "id": 438
+                                "2": {
+                                  "title": "control\n transferred into a servlet ",
+                                  "id": 939,
+                                  "ideas": {
+                                    "2": {
+                                      "title": "that sends to the business logic  command\n< change state >.",
+                                      "id": 940,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "And that changes the data in the database\n using the DAO layer.",
+                                          "id": 438,
+                                          "attr": {
+                                            "style": {}
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
                                 }
                               },
                               "id": 437
                             },
                             "3": {
-                              "title": "И затем сервлеты отправляли управление обратно \nна JSP (например — редиректом), и затем все повторялось. ",
+                              "title": "And then send control back to servlets\n in the JSP (eg - a redirect), and then all repeated.",
                               "attr": {
                                 "style": {}
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "Тут надо \nвнимательно следить, чтобы никакие запросы от JSP не лезли в DAO layer.",
+                                  "title": "You've got\n watch closely to any requests from the JSP did not climb to the DAO layer.",
                                   "id": 440
                                 }
                               },
