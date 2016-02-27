@@ -2643,7 +2643,8 @@
             "3": {
               "title": "Libs",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -2984,7 +2985,8 @@
                 "4": {
                   "title": "net urls",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3158,17 +3160,15 @@
               "id": 151
             },
             "4": {
-              "title": "dataBases",
+              "title": "working with dataBases",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
                   "title": "JDBC",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -3237,7 +3237,7 @@
                       "id": 230
                     },
                     "2": {
-                      "title": "терминология",
+                      "title": "terminology",
                       "attr": {
                         "style": {},
                         "collapsed": true
@@ -3250,10 +3250,10 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "коннекшен к базе, который возвращает...",
+                              "title": "connection to database that returns ...",
                               "ideas": {
                                 "1": {
-                                  "title": "соединение с базой данных",
+                                  "title": "database connection",
                                   "id": 244
                                 }
                               },
@@ -3269,7 +3269,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "позволяет получить коннекшен через определенный драйвер, подключенный в static {} блоке",
+                              "title": "specific driver that is connected to the static {} block",
                               "id": 246
                             }
                           },
@@ -3282,7 +3282,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "позволяет работать с запросом, который может вернуть результат в виде...",
+                              "title": "   It allows you to work with a query that can return the result",
                               "id": 248
                             }
                           },
@@ -3295,7 +3295,7 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": " такой себе итератор по результатам выполнения запроса",
+                              "title": "iterator  on the results of the query",
                               "id": 250
                             }
                           },
