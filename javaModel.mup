@@ -3644,7 +3644,8 @@
                 "4": {
                   "title": "Mockito",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3728,7 +3729,7 @@
                   "id": 305
                 },
                 "5": {
-                  "title": "граничные тесты",
+                  "title": "   boundary tests",
                   "attr": {
                     "style": {},
                     "collapsed": true
@@ -3742,7 +3743,7 @@
                   "id": 317
                 },
                 "6": {
-                  "title": "Интеграционные тесты с Maven, JUnit и Spring",
+                  "title": "Integration tests with Maven, JUnit and Spring",
                   "attr": {
                     "style": {},
                     "collapsed": true
