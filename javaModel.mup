@@ -2580,7 +2580,8 @@
                 "6": {
                   "title": "Generics",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -2600,12 +2601,12 @@
                 "7": {
                   "title": "Static",
                   "attr": {
-                    "collapsed": true,
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
-                      "title": "10 заметок о модификаторе Static в Java\n\t\t\t            \t\t",
+                      "title": "10 Notes on the Static modifier in Java\n\t\t\t            \t\t",
                       "attr": {
                         "style": {},
                         "collapsed": true
@@ -2619,7 +2620,7 @@
                       "id": 147
                     },
                     "2": {
-                      "title": "Статический импорт. Описание статического импорта",
+                      "title": "Static imports. Description static imports",
                       "attr": {
                         "style": {},
                         "collapsed": true
