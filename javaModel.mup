@@ -3773,7 +3773,8 @@
             "1": {
               "title": "tomcat / servlet / JSP",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -4598,7 +4599,8 @@
                 "4": {
                   "title": "Learn the basics of the web and Tomcat.",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -4675,24 +4677,22 @@
               "id": 322
             },
             "2": {
-              "title": "фреймворки",
+              "title": "frameworks",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
                   "title": "Spring",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
                       "title": "Spring MVC Video",
                       "attr": {
-                        "collapsed": true,
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -4730,8 +4730,8 @@
                     "2": {
                       "title": "Spring Security",
                       "attr": {
-                        "collapsed": true,
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -4751,8 +4751,7 @@
                 "2": {
                   "title": "Hibernate",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -4763,7 +4762,7 @@
                       },
                       "ideas": {
                         "1": {
-                          "title": "Java Hibernate. Часть 1 — Введение",
+                          "title": "Java Hibernate. Part 1 - Introduction",
                           "ideas": {
                             "1": {
                               "title": "http://javaxblog.ru/article/java-hibernate-1/",
@@ -4773,7 +4772,7 @@
                           "id": 455
                         },
                         "2": {
-                          "title": "\n\n\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tJava Hibernate. Часть 2 — Запросы",
+                          "title": "Java Hibernate. Part 2 - Request",
                           "ideas": {
                             "1": {
                               "title": "http://javaxblog.ru/article/java-hibernate-2/",
@@ -4788,15 +4787,14 @@
                     "2": {
                       "title": "video",
                       "attr": {
-                        "collapsed": true,
                         "style": {}
                       },
                       "ideas": {
                         "1": {
-                          "title": "Образование онлайн",
+                          "title": "Education online",
                           "ideas": {
                             "1": {
-                              "title": "Java hibernate: Настройка конфигов, урок 1!\n  ",
+                              "title": "Java hibernate: Setting configs, lesson 1!\n  ",
                               "attr": {
                                 "style": {}
                               },
