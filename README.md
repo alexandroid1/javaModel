@@ -3,6 +3,8 @@ a simple model map for Java Education
 
 Steps :
 
+-------------------------------------------------------------------------------
+
 Simple way :
 
 1) download https://github.com/alexandroid1/javaModel/blob/master/javaModel.mup
@@ -11,7 +13,7 @@ Simple way :
 
 3) click File -> Open/import -> From a local drive
 
-
+-------------------------------------------------------------------------------
 
 GitHub way :)
 
