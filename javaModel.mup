@@ -3160,15 +3160,17 @@
               "id": 151
             },
             "4": {
-              "title": "working with dataBases",
+              "title": "work with dataBases",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
                   "title": "JDBC",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3398,8 +3400,8 @@
                 "4": {
                   "title": "SQLite",
                   "attr": {
-                    "collapsed": true,
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3440,19 +3442,17 @@
             "5": {
               "title": "testing",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
-                  "title": "тесты",
+                  "title": "tests",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "начинать со слова",
+                      "title": "start with the word",
                       "attr": {
                         "style": {}
                       },
@@ -3465,16 +3465,16 @@
                       "id": 273
                     },
                     "2": {
-                      "title": "цель",
+                      "title": "goal",
                       "ideas": {
                         "1": {
-                          "title": "реализовывая фичу",
+                          "title": "realizing feature",
                           "ideas": {
                             "1": {
-                              "title": "сохранить остальной код",
+                              "title": "keep the rest of the code",
                               "ideas": {
                                 "1": {
-                                  "title": "рабочим",
+                                  "title": "working",
                                   "id": 278
                                 }
                               },
@@ -3487,16 +3487,16 @@
                       "id": 275
                     },
                     "3": {
-                      "title": "для тестов",
+                      "title": "   for tests",
                       "attr": {
                         "style": {}
                       },
                       "ideas": {
                         "1": {
-                          "title": "тот же самый пакет",
+                          "title": "the same package",
                           "ideas": {
                             "1": {
-                              "title": "но в папке",
+                              "title": "but in a folder",
                               "ideas": {
                                 "1": {
                                   "title": "test",
@@ -3514,7 +3514,6 @@
                     "4": {
                       "title": "public link",
                       "attr": {
-                        "collapsed": true,
                         "style": {}
                       },
                       "ideas": {
