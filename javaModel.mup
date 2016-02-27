@@ -4685,7 +4685,8 @@
                 "1": {
                   "title": "Spring",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -4751,7 +4752,8 @@
                 "2": {
                   "title": "Hibernate",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -4851,35 +4853,34 @@
                   "id": 453
                 },
                 "3": {
-                  "title": "разделение на Либ/фрэймворк/контейнер",
+                  "title": "the division into Lib / framework / container",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "либа",
+                      "title": "Lib",
                       "attr": {
                         "style": {},
                         "collapsed": true
                       },
                       "ideas": {
                         "1": {
-                          "title": "пассивная",
+                          "title": "passive",
                           "attr": {
                             "style": {},
                             "collapsed": true
                           },
                           "ideas": {
                             "1": {
-                              "title": "все делаю сам",
+                              "title": "I do everything myself",
                               "attr": {
                                 "style": {}
                               },
                               "id": 472
                             },
                             "2": {
-                              "title": "не накладывает ограничений",
+                              "title": "no restrictions",
                               "attr": {
                                 "style": {}
                               },
@@ -4895,45 +4896,54 @@
                           },
                           "id": 471
                         },
-                        "2": {
-                          "title": "JDBC",
-                          "attr": {
-                            "style": {}
+                        "4": {
+                          "title": "examples",
+                          "id": 941,
+                          "ideas": {
+                            "1": {
+                              "title": "JDBC",
+                              "attr": {
+                                "style": {}
+                              },
+                              "id": 475
+                            },
+                            "2": {
+                              "title": "Log4j",
+                              "attr": {
+                                "style": {}
+                              },
+                              "id": 476
+                            }
                           },
-                          "id": 475
-                        },
-                        "3": {
-                          "title": "Log4j",
                           "attr": {
+                            "collapsed": true,
                             "style": {}
-                          },
-                          "id": 476
+                          }
                         }
                       },
                       "id": 470
                     },
                     "2": {
-                      "title": "фреймворк",
+                      "title": "framework",
                       "attr": {
                         "style": {},
                         "collapsed": true
                       },
                       "ideas": {
                         "1": {
-                          "title": "делает все сам",
+                          "title": "does everything himself",
                           "attr": {
-                            "style": {},
-                            "collapsed": true
+                            "style": {}
                           },
                           "ideas": {
                             "1": {
-                              "title": "задает форму",
+                              "title": "   specifies the form",
                               "attr": {
                                 "style": {}
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "правила",
+                                  "title": "rules",
                                   "id": 480
                                 }
                               },
@@ -4942,29 +4952,39 @@
                           },
                           "id": 478
                         },
-                        "2": {
-                          "title": "Spring",
-                          "id": 481
-                        },
-                        "3": {
-                          "title": "Hibernate",
-                          "id": 482
+                        "4": {
+                          "title": "examples",
+                          "id": 942,
+                          "ideas": {
+                            "1": {
+                              "title": "Spring",
+                              "id": 481,
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "2": {
+                              "title": "Hibernate",
+                              "id": 482,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
                         }
                       },
                       "id": 477
                     },
                     "3": {
-                      "title": "контейнер",
+                      "title": "container",
                       "attr": {
-                        "style": {},
-                        "collapsed": true
+                        "style": {}
                       },
                       "ideas": {
                         "1": {
                           "title": "он задает форму",
                           "attr": {
-                            "style": {},
-                            "collapsed": true
+                            "style": {}
                           },
                           "ideas": {
                             "1": {
