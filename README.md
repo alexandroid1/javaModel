@@ -12,3 +12,5 @@ Steps
 4) click <Extensions> -> <Github>
 
 5) 
+
+6)
