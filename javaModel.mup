@@ -1306,7 +1306,7 @@
               "id": 867
             },
             "5": {
-              "title": "Путь иррационала в IT",
+              "title": "   Way irrationals in IT",
               "attr": {
                 "style": {},
                 "collapsed": true
@@ -1314,307 +1314,302 @@
               "ideas": {
                 "1": {
                   "title": "https://www.youtube.com/watch?v=chOOhBg2UhU",
-                  "id": 754
+                  "id": 877
                 },
                 "2": {
-                  "title": "работать на пике желаний",
+                  "title": "   desires to work at peak",
                   "attr": {
                     "style": {},
                     "collapsed": true
                   },
                   "ideas": {
                     "1": {
-                      "title": "работа дома",
+                      "title": "   work at home",
                       "attr": {
                         "style": {}
                       },
-                      "id": 756
+                      "id": 879
                     },
                     "2": {
-                      "title": "работать из парка",
+                      "title": "working out of the park",
                       "attr": {
                         "style": {}
                       },
-                      "id": 757
+                      "id": 880
                     },
                     "3": {
-                      "title": "начинать с самого утра",
+                      "title": "start in the morning",
                       "attr": {
-                        "style": {},
-                        "collapsed": true
+                        "style": {}
                       },
                       "ideas": {
                         "1": {
-                          "title": "4 утра",
-                          "ideas": {
-                            "1": {
-                              "title": "до ",
-                              "ideas": {
-                                "1": {
-                                  "title": "9 утра",
-                                  "id": 761
-                                }
-                              },
-                              "id": 760
-                            }
-                          },
-                          "id": 759
-                        },
-                        "2": {
-                          "title": "с 4 утра до 9 утра - самое креативное время",
+                          "title": "from 4 am to 9 am - the most effective time",
                           "attr": {
                             "style": {}
                           },
-                          "id": 762
+                          "id": 882
                         }
                       },
-                      "id": 758
+                      "id": 881
                     },
                     "4": {
-                      "title": "быть плюшкиным",
-                      "attr": {
-                        "style": {},
-                        "collapsed": true
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "носить с собой фотик и диктофон",
-                          "attr": {
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "записывать идеи",
-                              "id": 765
-                            }
-                          },
-                          "id": 764
-                        }
-                      },
-                      "id": 763
-                    },
-                    "5": {
-                      "title": "драйв на 2 весяца",
-                      "attr": {
-                        "style": {},
-                        "collapsed": true
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "ротации в команде",
-                          "id": 767
-                        },
-                        "2": {
-                          "title": "с проекта на проект",
-                          "id": 768
-                        }
-                      },
-                      "id": 766
-                    },
-                    "6": {
-                      "title": "смотреть, как пишут код другие",
+                      "title": "   can post ideas",
                       "attr": {
                         "style": {}
                       },
-                      "id": 769
+                      "ideas": {},
+                      "id": 883
+                    },
+                    "5": {
+                      "title": "Drive for 2 months",
+                      "attr": {
+                        "style": {}
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "in the team rotation",
+                          "id": 885
+                        },
+                        "2": {
+                          "title": "   from project to project",
+                          "id": 886
+                        }
+                      },
+                      "id": 884
+                    },
+                    "6": {
+                      "title": "watching others write code",
+                      "attr": {
+                        "style": {}
+                      },
+                      "id": 887
                     }
                   },
-                  "id": 755
+                  "id": 878
                 },
                 "3": {
-                  "title": "таски",
+                  "title": "TASK",
                   "attr": {
                     "style": {},
                     "collapsed": true
                   },
                   "ideas": {
                     "1": {
-                      "title": "важно",
-                      "id": 771
+                      "title": "important",
+                      "id": 889
                     },
                     "2": {
-                      "title": "срочно",
+                      "title": "urgently",
                       "ideas": {
                         "1": {
-                          "title": "автоматизация",
+                          "title": "   automation",
                           "attr": {
                             "style": {}
                           },
-                          "id": 773
+                          "id": 891
                         },
                         "2": {
-                          "title": "срочность",
+                          "title": "urgency",
                           "attr": {
                             "style": {}
                           },
-                          "id": 774
+                          "id": 892
                         }
                       },
-                      "id": 772
+                      "id": 890
                     },
                     "3": {
-                      "title": "корзина тасков",
+                      "title": "basket TASK",
                       "attr": {
                         "style": {}
                       },
                       "ideas": {
                         "1": {
-                          "title": "выбирать из тасков",
+                          "title": "choose from TASK",
                           "ideas": {
                             "1": {
-                              "title": "убить 5 зайцев сразу",
+                              "title": "killing 5 birds with one stone",
                               "attr": {
                                 "style": {}
                               },
-                              "id": 777
+                              "id": 895
                             }
                           },
-                          "id": 776
+                          "id": 894
                         }
                       },
-                      "id": 775
+                      "id": 893
                     }
                   },
-                  "id": 770
+                  "id": 888
                 },
                 "4": {
-                  "title": "Что ценится в компании",
+                  "title": "What is valued in the company",
                   "attr": {
                     "style": {},
                     "collapsed": true
                   },
                   "ideas": {
                     "1": {
-                      "title": "обучаемость",
+                      "title": "educability",
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      },
                       "ideas": {
                         "1": {
-                          "title": "много учусь самостоятельно",
-                          "id": 780
+                          "title": "a lot of learning on their own",
+                          "id": 898
                         }
                       },
-                      "id": 779
+                      "id": 897
                     },
                     "2": {
-                      "title": "софт скиллз",
-                      "id": 781
+                      "title": "software skillz",
+                      "id": 899
                     },
                     "3": {
-                      "title": "английский",
-                      "id": 782
+                      "title": "English",
+                      "id": 900
                     },
                     "4": {
-                      "title": "умение работать в команде",
+                      "title": "skill to work in team",
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      },
                       "ideas": {
                         "1": {
-                          "title": "слушать и слышать",
-                          "id": 784
+                          "title": "listen and hear",
+                          "id": 902
                         },
                         "2": {
-                          "title": "принять его точку зрения",
-                          "id": 785
+                          "title": "accept his point of view",
+                          "id": 903
                         }
                       },
-                      "id": 783
+                      "id": 901
                     },
                     "5": {
-                      "title": "проактивность",
-                      "id": 786
+                      "title": "proactivity",
+                      "id": 904
                     },
                     "6": {
-                      "title": "планирование",
-                      "id": 787
+                      "title": "planning",
+                      "id": 905
                     },
                     "7": {
-                      "title": "всегда учишься",
-                      "id": 788
+                      "title": "always learn",
+                      "id": 906
                     },
                     "8": {
-                      "title": "доллары = время * фан в квадрате",
+                      "title": "Dollar = Time * squared fan",
+                      "attr": {
+                        "style": {},
+                        "collapsed": true
+                      },
                       "ideas": {
                         "1": {
-                          "title": "ценится интерес",
-                          "id": 790
+                          "title": "   valued interest",
+                          "id": 908
                         }
                       },
-                      "id": 789
+                      "id": 907
                     },
                     "9": {
-                      "title": "внимателен",
-                      "id": 791
+                      "title": "attentive",
+                      "id": 909
                     },
                     "10": {
-                      "title": "ценит критику",
-                      "id": 792
+                      "title": "appreciate criticism",
+                      "id": 910
                     },
                     "11": {
-                      "title": "автономность",
+                      "title": "autonomy",
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      },
                       "ideas": {
                         "1": {
-                          "title": "уже много сделал сам",
+                          "title": "many made himself",
+                          "attr": {
+                            "collapsed": true,
+                            "style": {}
+                          },
                           "ideas": {
                             "1": {
-                              "title": "гордишься",
-                              "id": 795
+                              "title": "proud of",
+                              "id": 913
                             },
                             "2": {
-                              "title": "вдохновленность",
-                              "id": 796
+                              "title": "inspiration",
+                              "id": 914
                             },
                             "3": {
-                              "title": "как игрушка",
-                              "id": 797
+                              "title": "as a toy",
+                              "id": 915
                             },
                             "4": {
-                              "title": "как конструктор",
-                              "id": 798
+                              "title": "as a constructor",
+                              "id": 916
                             },
                             "5": {
-                              "title": "что-то постоянно ковыряет",
-                              "id": 799
+                              "title": "something constantly picking",
+                              "id": 917
                             }
                           },
-                          "id": 794
+                          "id": 912
                         },
                         "2": {
-                          "title": "самостоятельность",
+                          "title": "   independence",
+                          "attr": {
+                            "collapsed": true,
+                            "style": {}
+                          },
                           "ideas": {
                             "1": {
-                              "title": "дробить задачи",
-                              "id": 801
+                              "title": "granulating tasks",
+                              "id": 919
                             }
                           },
-                          "id": 800
+                          "id": 918
                         }
                       },
-                      "id": 793
+                      "id": 911
                     },
                     "12": {
-                      "title": "любая задача решаема",
+                      "title": "   Any problem solved",
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      },
                       "ideas": {
                         "1": {
-                          "title": "как долго?",
-                          "id": 803
+                          "title": "how long?",
+                          "id": 921
                         },
                         "2": {
-                          "title": "Сколько стоит?",
-                          "id": 804
+                          "title": "How much is?",
+                          "id": 922
                         }
                       },
-                      "id": 802
+                      "id": 920
                     },
                     "13": {
-                      "title": "быть ценной инвестицией",
-                      "id": 805
+                      "title": "   be a valuable investment",
+                      "id": 923
                     },
                     "14": {
-                      "title": "горящие глаза",
-                      "id": 806
+                      "title": "burning eyes",
+                      "id": 924
                     }
                   },
-                  "id": 778
+                  "id": 896
                 }
               },
-              "id": 753
+              "id": 876
             }
           },
           "id": 711
