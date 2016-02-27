@@ -2578,25 +2578,21 @@
                   "id": 135
                 },
                 "6": {
-                  "title": "Дженерики",
+                  "title": "Generics",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
                       "title": "http://www.quizful.net/post/java-generics-tutorial",
                       "id": 143
                     },
-                    "2": {
-                      "title": "Обобщения (Generic)",
-                      "ideas": {
-                        "1": {
-                          "title": "http://developer.alexanderklimov.ru/android/java/generic.php",
-                          "id": 145
-                        }
-                      },
-                      "id": 144
+                    "3": {
+                      "title": "http://developer.alexanderklimov.ru/android/java/generic.php",
+                      "id": 145,
+                      "attr": {
+                        "style": {}
+                      }
                     }
                   },
                   "id": 142
