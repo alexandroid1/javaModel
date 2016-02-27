@@ -2427,7 +2427,8 @@
                 "3": {
                   "title": "patterns",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -2508,9 +2509,8 @@
                   "id": 119
                 },
                 "4": {
-                  "title": "Java/Видимость",
+                  "title": "Visibility",
                   "attr": {
-                    "collapsed": true,
                     "style": {}
                   },
                   "ideas": {
