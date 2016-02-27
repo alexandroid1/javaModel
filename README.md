@@ -9,7 +9,7 @@ Simple way :
 
 2) open https://www.mindmup.com/#m:new link
 
-3) click <File> -> <Open/import> -> <From a local drive>
+3) click File -> Open/import -> From a local drive
 
 
 
@@ -25,6 +25,6 @@ GitHub way :)
 
 5) click <Save> -> <Github> , autentificate on github
 
-6) click <File> -> <Open/import>  -> <From GitHub>
+6) click File -> Open/import -> From GitHub
 
 7) Enter path to file javaModel.mup on github
