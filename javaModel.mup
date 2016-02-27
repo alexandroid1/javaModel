@@ -1703,7 +1703,8 @@
         "2": {
           "title": "java Standard",
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -3442,7 +3443,8 @@
             "5": {
               "title": "testing",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -3765,29 +3767,25 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           },
           "ideas": {
             "1": {
               "title": "tomcat / servlet / JSP",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
                   "title": "TomCat",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
                       "title": "artifacts / bin folder",
                       "attr": {
-                        "style": {},
-                        "collapsed": true
+                        "style": {}
                       },
                       "ideas": {
                         "1": {
@@ -3819,14 +3817,41 @@
                                   "title": "for war",
                                   "ideas": {
                                     "1": {
-                                      "title": "Возьми нажми File/Project Structure/Artifacts после этого нажми «+» \nтогда выбери Web Application Exploded/From Modules. У тебя должно \nоткрыться окно с именем твоего проекта. Выбираеш его, жмеш ОК. После \nэтого у тебя в artefacts появится новый артифакт. Жмеш Apply и \nперезапускаеш сервер",
-                                      "id": 331
+                                      "title": "Click File / Project Structure / Artifacts ",
+                                      "id": 331,
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "then press the \"+\"\n",
+                                          "id": 929,
+                                          "ideas": {
+                                            "1": {
+                                              "title": " then select Web Application Exploded / From Modules. ",
+                                              "id": 930,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "You should\n open a window with the name of your project. Choose his harvest OK. ",
+                                                  "id": 931,
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "After\n this in your artefacts will be a new artifact. Apply and restart the server",
+                                                      "id": 932
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
                                     }
                                   },
                                   "id": 330
                                 },
                                 "2": {
-                                  "title": "Понял, что проект надо размещать в директории сервера",
+                                  "title": "I understand that the project should be placed in the server directory",
                                   "id": 332
                                 },
                                 "3": {
