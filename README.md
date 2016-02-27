@@ -19,7 +19,7 @@ GitHub way :)
 
 1) Sign in to your GitHub
 
-2) Click <Fork> button in bottom-right conner
+2) Click Fork button in bottom-right conner
 
 3) open https://www.mindmup.com/#m:new link
 
