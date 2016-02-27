@@ -3779,13 +3779,20 @@
                 "1": {
                   "title": "TomCat",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "position": [
+                      160,
+                      -109.75,
+                      1
+                    ],
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
                       "title": "artifacts / bin folder",
                       "attr": {
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -3874,7 +3881,7 @@
                       "id": 324
                     },
                     "2": {
-                      "title": "Intellij IDEA деплой на Tomcat",
+                      "title": "Intellij IDEA deploy on Tomcat",
                       "attr": {
                         "style": {},
                         "collapsed": true
@@ -3898,7 +3905,7 @@
                           "title": "https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-14-04",
                           "ideas": {
                             "1": {
-                              "title": "но не как сервис",
+                              "title": "   but not as a service",
                               "id": 339
                             }
                           },
@@ -3927,23 +3934,34 @@
                 "2": {
                   "title": "servlet API",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
-                      "title": "определение",
+                      "title": "definition",
                       "attr": {
                         "style": {},
                         "collapsed": true
                       },
                       "ideas": {
                         "1": {
-                          "title": "Сервлет является интерфейсом Java, реализация которого расширяет функциональные возможности сервера. Сервлет взаимодействует с клиентами посредством принципа запрос-ответ. Хотя сервлеты могут обслуживать любые запросы, они обычно используются для расширения веб-серверов.",
+                          "title": "A servlet is a Java interface, the realization of which extends the functionality of server capabilities. ",
                           "attr": {
                             "style": {}
                           },
-                          "id": 344
+                          "ideas": {
+                            "1": {
+                              "title": "A servlet interacts with customers through a request-response principle.",
+                              "ideas": {
+                                "1": {
+                                  "title": " Although servlets can handle any request, they are commonly used for the expansion of the web server.",
+                                  "id": 936
+                                }
+                              },
+                              "id": 935
+                            }
+                          },
+                          "id": 934
                         },
                         "2": {
                           "title": "stateless",
@@ -3952,14 +3970,14 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "который не может хранить свое состояние",
-                              "id": 346
+                              "title": "who can not keep his condition",
+                              "id": 938
                             }
                           },
-                          "id": 345
+                          "id": 937
                         }
                       },
-                      "id": 343
+                      "id": 933
                     },
                     "2": {
                       "title": "Steps",
@@ -3972,6 +3990,11 @@
                           "title": "WEB-INF",
                           "attr": {
                             "style": {},
+                            "position": [
+                              70,
+                              -110.78125,
+                              1
+                            ],
                             "collapsed": true
                           },
                           "ideas": {
@@ -4179,15 +4202,13 @@
                     "3": {
                       "title": "how-to",
                       "attr": {
-                        "style": {},
-                        "collapsed": true
+                        "style": {}
                       },
                       "ideas": {
                         "1": {
-                          "title": "сессии получить/передать ",
+                          "title": "   session receive / transmit",
                           "attr": {
-                            "style": {},
-                            "collapsed": true
+                            "style": {}
                           },
                           "ideas": {
                             "1": {
@@ -4197,7 +4218,7 @@
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "внутренний редирект",
+                                  "title": "internal redirect",
                                   "ideas": {
                                     "1": {
                                       "title": "browser",
@@ -4206,21 +4227,27 @@
                                       },
                                       "ideas": {
                                         "1": {
-                                          "title": "запрос/request",
+                                          "title": "request",
                                           "ideas": {
                                             "1": {
-                                              "title": "адресная строка/кнопка/линка",
+                                              "title": "address bar / button / link",
                                               "attr": {
                                                 "style": {}
                                               },
                                               "ideas": {
                                                 "1": {
-                                                  "title": "Get или Post",
+                                                  "title": "Get / Post",
                                                   "ideas": {
                                                     "1": {
                                                       "title": "getAction",
                                                       "attr": {
-                                                        "style": {}
+                                                        "style": {},
+                                                        "position": [
+                                                          91,
+                                                          -83.28125,
+                                                          2
+                                                        ],
+                                                        "collapsed": true
                                                       },
                                                       "ideas": {
                                                         "1": {
@@ -4243,14 +4270,14 @@
                                                     "2": {
                                                       "title": "getRequestURI",
                                                       "attr": {
-                                                        "style": {}
+                                                        "style": {},
+                                                        "collapsed": true
                                                       },
                                                       "ideas": {
                                                         "1": {
-                                                          "title": "посмотреть URI",
+                                                          "title": "   see URI",
                                                           "attr": {
-                                                            "style": {},
-                                                            "collapsed": true
+                                                            "style": {}
                                                           },
                                                           "ideas": {
                                                             "1": {
@@ -4261,10 +4288,9 @@
                                                           "id": 390
                                                         },
                                                         "2": {
-                                                          "title": "выделить последнюю часть в  URI",
+                                                          "title": "   select the last part of the URI",
                                                           "attr": {
-                                                            "style": {},
-                                                            "collapsed": true
+                                                            "style": {}
                                                           },
                                                           "ideas": {
                                                             "1": {
@@ -4280,14 +4306,14 @@
                                                     "3": {
                                                       "title": "getParameter",
                                                       "attr": {
-                                                        "style": {}
+                                                        "style": {},
+                                                        "collapsed": true
                                                       },
                                                       "ideas": {
                                                         "1": {
-                                                          "title": "получить из сессии",
+                                                          "title": "receive from the session",
                                                           "attr": {
-                                                            "style": {},
-                                                            "collapsed": true
+                                                            "style": {}
                                                           },
                                                           "ideas": {
                                                             "1": {
@@ -4304,10 +4330,9 @@
                                                       "title": "setAttribute",
                                                       "ideas": {
                                                         "1": {
-                                                          "title": "если надо передать что-то в сессию",
+                                                          "title": "   if you need to pass something in session",
                                                           "attr": {
-                                                            "style": {},
-                                                            "collapsed": true
+                                                            "style": {}
                                                           },
                                                           "ideas": {
                                                             "1": {
@@ -4318,7 +4343,16 @@
                                                           "id": 398
                                                         }
                                                       },
-                                                      "id": 397
+                                                      "id": 397,
+                                                      "attr": {
+                                                        "position": [
+                                                          91,
+                                                          83.71875,
+                                                          1
+                                                        ],
+                                                        "style": {},
+                                                        "collapsed": true
+                                                      }
                                                     }
                                                   },
                                                   "id": 385
@@ -4330,7 +4364,7 @@
                                           "id": 383
                                         },
                                         "2": {
-                                          "title": "ответ/Response 200",
+                                          "title": "Response 200",
                                           "ideas": {
                                             "1": {
                                               "title": "a href = y.jsp",
@@ -4350,7 +4384,7 @@
                                           "id": 400
                                         },
                                         "3": {
-                                          "title": "или AJAX (Jquery)",
+                                          "title": "AJAX (Jquery)",
                                           "ideas": {
                                             "1": {
                                               "title": "сам обработает ответ",
@@ -4378,7 +4412,7 @@
                                   "id": 381
                                 },
                                 "2": {
-                                  "title": "внешний редирект",
+                                  "title": "external redirects",
                                   "ideas": {
                                     "1": {
                                       "title": "на другой контроллер",
