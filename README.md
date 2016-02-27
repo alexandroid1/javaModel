@@ -21,7 +21,7 @@ GitHub way :)
 
 3) open https://www.mindmup.com/#m:new link
 
-4) click <Extensions> -> <Github>
+4) click Extensions -> Github
 
 5) click <Save> -> <Github> , autentificate on github
 
