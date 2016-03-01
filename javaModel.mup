@@ -4685,8 +4685,7 @@
                 "1": {
                   "title": "Spring",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -4745,6 +4744,25 @@
                         }
                       },
                       "id": 450
+                    },
+                    "4": {
+                      "title": "annotations",
+                      "id": 945,
+                      "ideas": {
+                        "1": {
+                          "title": "Spring Framework Guide",
+                          "id": 943,
+                          "attr": {
+                            "style": {}
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "https://ru.wikibooks.org/wiki/Spring_Framework_Guide",
+                              "id": 946
+                            }
+                          }
+                        }
+                      }
                     }
                   },
                   "id": 442
@@ -4855,7 +4873,8 @@
                 "3": {
                   "title": "the division into Lib / framework / container",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
