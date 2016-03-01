@@ -4869,8 +4869,7 @@
                         "2": {
                           "title": "Spring Security",
                           "attr": {
-                            "style": {},
-                            "collapsed": true
+                            "style": {}
                           },
                           "ideas": {
                             "1": {
@@ -4880,6 +4879,22 @@
                             "2": {
                               "title": "Log Out",
                               "id": 452
+                            },
+                            "3": {
+                              "title": "Spring Security 3.1",
+                              "id": 991,
+                              "ideas": {
+                                "1": {
+                                  "title": "Mark Serrano",
+                                  "id": 992,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "http://krams915.blogspot.ru/",
+                                      "id": 993
+                                    }
+                                  }
+                                }
+                              }
                             }
                           },
                           "id": 450
@@ -4956,8 +4971,7 @@
                         }
                       },
                       "attr": {
-                        "style": {},
-                        "collapsed": true
+                        "style": {}
                       }
                     },
                     "7": {
