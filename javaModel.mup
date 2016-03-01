@@ -4789,6 +4789,16 @@
                           "id": 952
                         }
                       }
+                    },
+                    "7": {
+                      "title": "@Autowired in Spring 3",
+                      "id": 953,
+                      "ideas": {
+                        "1": {
+                          "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
+                          "id": 955
+                        }
+                      }
                     }
                   },
                   "id": 442
