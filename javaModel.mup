@@ -4924,6 +4924,16 @@
                                           "id": 999
                                         }
                                       }
+                                    },
+                                    "5": {
+                                      "title": "Spring Social with JavaConfig",
+                                      "id": 1000,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-5.html",
+                                          "id": 1001
+                                        }
+                                      }
                                     }
                                   }
                                 }
