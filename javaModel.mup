@@ -4688,44 +4688,75 @@
                     "style": {}
                   },
                   "ideas": {
-                    "2": {
-                      "title": "create",
-                      "id": 963,
+                    "1": {
+                      "title": "steps",
+                      "id": 964,
+                      "attr": {
+                        "style": {}
+                      },
                       "ideas": {
                         "1": {
-                          "title": "Intellij Idea",
-                          "id": 957,
+                          "title": "create",
+                          "id": 963,
                           "ideas": {
                             "1": {
-                              "title": "File",
-                              "id": 959,
+                              "title": "Intellij Idea",
+                              "id": 957,
                               "ideas": {
                                 "1": {
-                                  "title": "new project",
-                                  "id": 960,
+                                  "title": "File",
+                                  "id": 959,
                                   "ideas": {
                                     "1": {
-                                      "title": "spring",
-                                      "id": 961,
+                                      "title": "new project",
+                                      "id": 960,
                                       "ideas": {
                                         "1": {
-                                          "title": "spring configuration",
-                                          "id": 962
+                                          "title": "spring",
+                                          "id": 961,
+                                          "ideas": {
+                                            "1": {
+                                              "title": "spring configuration",
+                                              "id": 962
+                                            }
+                                          }
                                         }
                                       }
                                     }
                                   }
                                 }
+                              },
+                              "attr": {
+                                "style": {}
                               }
                             }
                           },
                           "attr": {
                             "style": {}
                           }
+                        },
+                        "2": {
+                          "title": "command",
+                          "id": 967,
+                          "ideas": {
+                            "1": {
+                              "title": "mvn clean install",
+                              "id": 968,
+                              "ideas": {
+                                "1": {
+                                  "title": "target",
+                                  "id": 969,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "jar",
+                                      "id": 970
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
                         }
-                      },
-                      "attr": {
-                        "style": {}
                       }
                     },
                     "4": {
@@ -4758,22 +4789,9 @@
                             "style": {}
                           }
                         }
-                      }
-                    },
-                    "5": {
-                      "title": "lessons",
-                      "id": 947,
-                      "ideas": {
-                        "1": {
-                          "title": "1",
-                          "id": 948,
-                          "ideas": {
-                            "2": {
-                              "title": "http://spring-projects.ru/guides/lessons/lesson-1/",
-                              "id": 950
-                            }
-                          }
-                        }
+                      },
+                      "attr": {
+                        "style": {}
                       }
                     },
                     "6": {
@@ -4781,8 +4799,20 @@
                       "id": 951,
                       "ideas": {
                         "1": {
-                          "title": "http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#dependency-management",
-                          "id": 952
+                          "title": "table with all artifacts",
+                          "id": 978,
+                          "ideas": {
+                            "1": {
+                              "title": "http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#dependency-management",
+                              "id": 952,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
                         },
                         "2": {
                           "title": "Spring Security",
@@ -4846,7 +4876,69 @@
                               "id": 443
                             }
                           }
+                        },
+                        "4": {
+                          "title": "spring-context",
+                          "id": 971,
+                          "ideas": {
+                            "1": {
+                              "title": "for Dependency Injection(DI)",
+                              "id": 972,
+                              "ideas": {
+                                "2": {
+                                  "title": "maven",
+                                  "id": 974,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "\n    <dependency>        <groupId>org.springframework</groupId>\n        <artifactId>spring-context</artifactId>\n        <version>4.1.5.RELEASE</version>\n    </dependency>\n",
+                                      "id": 973,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
                         }
+                      }
+                    },
+                    "0.5": {
+                      "title": "lessons",
+                      "id": 947,
+                      "ideas": {
+                        "1": {
+                          "title": "1",
+                          "id": 948,
+                          "ideas": {
+                            "2": {
+                              "title": "http://spring-projects.ru/guides/lessons/lesson-1/",
+                              "id": 950
+                            }
+                          }
+                        },
+                        "0.5": {
+                          "title": "all lessons",
+                          "id": 976,
+                          "ideas": {
+                            "1": {
+                              "title": "http://spring-projects.ru/",
+                              "id": 977
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      },
+                      "attr": {
+                        "position": [
+                          74,
+                          -198.58984375,
+                          1
+                        ],
+                        "style": {}
                       }
                     }
                   },
