@@ -4688,6 +4688,46 @@
                     "style": {}
                   },
                   "ideas": {
+                    "2": {
+                      "title": "create",
+                      "id": 963,
+                      "ideas": {
+                        "1": {
+                          "title": "Intellij Idea",
+                          "id": 957,
+                          "ideas": {
+                            "1": {
+                              "title": "File",
+                              "id": 959,
+                              "ideas": {
+                                "1": {
+                                  "title": "new project",
+                                  "id": 960,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "spring",
+                                      "id": 961,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "spring configuration",
+                                          "id": 962
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    },
                     "4": {
                       "title": "annotations",
                       "id": 945,
