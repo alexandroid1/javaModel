@@ -4688,63 +4688,6 @@
                     "style": {}
                   },
                   "ideas": {
-                    "1": {
-                      "title": "Spring MVC Video",
-                      "attr": {
-                        "style": {},
-                        "collapsed": true
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "video",
-                          "attr": {
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "https://www.youtube.com/watch?v=thTIKMQN22g",
-                              "id": 445
-                            },
-                            "2": {
-                              "title": "https://www.youtube.com/watch?v=64v-_R8Y_iw",
-                              "id": 446
-                            },
-                            "3": {
-                              "title": "https://www.youtube.com/watch?v=QDgBxm3brks",
-                              "id": 447
-                            },
-                            "4": {
-                              "title": "https://www.youtube.com/watch?v=lT-7BGP72_g",
-                              "id": 448
-                            },
-                            "5": {
-                              "title": "https://www.youtube.com/watch?v=itMV-7xP1NU",
-                              "id": 449
-                            }
-                          },
-                          "id": 444
-                        }
-                      },
-                      "id": 443
-                    },
-                    "2": {
-                      "title": "Spring Security",
-                      "attr": {
-                        "style": {},
-                        "collapsed": true
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "Log in",
-                          "id": 451
-                        },
-                        "2": {
-                          "title": "Log Out",
-                          "id": 452
-                        }
-                      },
-                      "id": 450
-                    },
                     "4": {
                       "title": "annotations",
                       "id": 945,
@@ -4760,6 +4703,19 @@
                               "title": "https://ru.wikibooks.org/wiki/Spring_Framework_Guide",
                               "id": 946
                             }
+                          }
+                        },
+                        "2": {
+                          "title": "@Autowired in Spring 3",
+                          "id": 953,
+                          "ideas": {
+                            "1": {
+                              "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
+                              "id": 955
+                            }
+                          },
+                          "attr": {
+                            "style": {}
                           }
                         }
                       }
@@ -4787,16 +4743,69 @@
                         "1": {
                           "title": "http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#dependency-management",
                           "id": 952
-                        }
-                      }
-                    },
-                    "7": {
-                      "title": "@Autowired in Spring 3",
-                      "id": 953,
-                      "ideas": {
-                        "1": {
-                          "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
-                          "id": 955
+                        },
+                        "2": {
+                          "title": "Spring Security",
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "Log in",
+                              "id": 451
+                            },
+                            "2": {
+                              "title": "Log Out",
+                              "id": 452
+                            }
+                          },
+                          "id": 450
+                        },
+                        "3": {
+                          "title": "Spring MVC",
+                          "id": 956,
+                          "ideas": {
+                            "1": {
+                              "title": "Spring MVC Video",
+                              "attr": {
+                                "style": {},
+                                "collapsed": true
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "video",
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "https://www.youtube.com/watch?v=thTIKMQN22g",
+                                      "id": 445
+                                    },
+                                    "2": {
+                                      "title": "https://www.youtube.com/watch?v=64v-_R8Y_iw",
+                                      "id": 446
+                                    },
+                                    "3": {
+                                      "title": "https://www.youtube.com/watch?v=QDgBxm3brks",
+                                      "id": 447
+                                    },
+                                    "4": {
+                                      "title": "https://www.youtube.com/watch?v=lT-7BGP72_g",
+                                      "id": 448
+                                    },
+                                    "5": {
+                                      "title": "https://www.youtube.com/watch?v=itMV-7xP1NU",
+                                      "id": 449
+                                    }
+                                  },
+                                  "id": 444
+                                }
+                              },
+                              "id": 443
+                            }
+                          }
                         }
                       }
                     }
