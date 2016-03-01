@@ -4765,41 +4765,79 @@
                       "id": 945,
                       "ideas": {
                         "1": {
-                          "title": "Spring Framework Guide",
-                          "id": 943,
-                          "attr": {
-                            "style": {}
-                          },
+                          "title": "@Autowired",
+                          "id": 985,
                           "ideas": {
                             "1": {
-                              "title": "https://ru.wikibooks.org/wiki/Spring_Framework_Guide",
-                              "id": 946
+                              "title": "used for automatic dependency injection",
+                              "id": 986,
+                              "ideas": {
+                                "1": {
+                                  "title": "You mark them some property in the bean and Spring itself will create an instance, right to this property.",
+                                  "id": 987
+                                }
+                              }
                             }
+                          },
+                          "attr": {
+                            "style": {}
                           }
                         },
                         "2": {
-                          "title": "@Autowired in Spring 3",
-                          "id": 953,
+                          "title": "@Required",
+                          "id": 983,
                           "ideas": {
                             "1": {
-                              "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
-                              "id": 955
+                              "title": "It notes the properties bean, which must be set.",
+                              "id": 984
                             }
                           },
                           "attr": {
                             "style": {}
                           }
                         },
-                        "3": {
-                          "title": "Spring autowired",
-                          "id": 979,
-                          "attr": {
-                            "style": {}
-                          },
+                        "4": {
+                          "title": "theory",
+                          "id": 981,
                           "ideas": {
                             "1": {
-                              "title": "http://ru.stackoverflow.com/questions/33520/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%B8-spring%D0%B0",
-                              "id": 980
+                              "title": "Spring Framework Guide",
+                              "id": 943,
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "https://ru.wikibooks.org/wiki/Spring_Framework_Guide",
+                                  "id": 946
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "@Autowired in Spring 3",
+                              "id": 953,
+                              "ideas": {
+                                "1": {
+                                  "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
+                                  "id": 955
+                                }
+                              },
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "3": {
+                              "title": "Spring autowired",
+                              "id": 979,
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "http://ru.stackoverflow.com/questions/33520/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%B8-spring%D0%B0",
+                                  "id": 980
+                                }
+                              }
                             }
                           }
                         }
@@ -4920,6 +4958,20 @@
                       "attr": {
                         "style": {},
                         "collapsed": true
+                      }
+                    },
+                    "7": {
+                      "title": "Spring Framework without XML",
+                      "id": 988,
+                      "ideas": {
+                        "1": {
+                          "title": "https://habrahabr.ru/post/112488/",
+                          "id": 990
+                        }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
                       }
                     },
                     "0.5": {
