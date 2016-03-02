@@ -4936,6 +4936,16 @@
                                       }
                                     }
                                   }
+                                },
+                                "2": {
+                                  "title": "Spring MVC 3",
+                                  "id": 1006,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "https://habrahabr.ru/post/248541/",
+                                      "id": 1007
+                                    }
+                                  }
                                 }
                               }
                             }
