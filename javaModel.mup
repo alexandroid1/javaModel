@@ -5045,6 +5045,22 @@
                             }
                           }
                         },
+                        "2": {
+                          "title": "lesson 2",
+                          "id": 1003,
+                          "ideas": {
+                            "1": {
+                              "title": "Spring IoC",
+                              "id": 1004,
+                              "ideas": {
+                                "1": {
+                                  "title": "http://spring-projects.ru/guides/lessons/lesson-2/",
+                                  "id": 1005
+                                }
+                              }
+                            }
+                          }
+                        },
                         "0.5": {
                           "title": "all lessons",
                           "id": 976,
