@@ -6,8 +6,7 @@
     "2": {
       "title": "instruments",
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "1": {
@@ -494,7 +493,7 @@
               "id": 591
             },
             "4": {
-              "title": "БД",
+              "title": "DB",
               "attr": {
                 "style": {},
                 "collapsed": true
@@ -3766,7 +3765,8 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -4678,7 +4678,8 @@
             "2": {
               "title": "frameworks",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -5211,7 +5212,8 @@
                 "3": {
                   "title": "the division into Lib / framework / container",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -5334,7 +5336,8 @@
                     "3": {
                       "title": "container",
                       "attr": {
-                        "style": {}
+                        "style": {},
+                        "collapsed": true
                       },
                       "ideas": {
                         "1": {
@@ -5410,7 +5413,7 @@
                           "id": 495
                         },
                         "4": {
-                          "title": "сервлет-контейнеры между собой заменимы",
+                          "title": "   servlet containers are interchangeable with each other",
                           "attr": {
                             "style": {}
                           },
