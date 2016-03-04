@@ -5136,7 +5136,8 @@
                             }
                           },
                           "attr": {
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           }
                         },
                         "3": {
@@ -5149,7 +5150,8 @@
                             }
                           },
                           "attr": {
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           }
                         }
                       }
@@ -5175,12 +5177,22 @@
                               "title": "Enterprise JavaBeans",
                               "id": 1016,
                               "attr": {
-                                "style": {}
+                                "style": {},
+                                "collapsed": true
                               },
                               "ideas": {
-                                "1": {
-                                  "title": "https://en.wikipedia.org/wiki/Enterprise_JavaBeans",
-                                  "id": 1021
+                                "2": {
+                                  "title": "eng",
+                                  "id": 1028,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "https://en.wikipedia.org/wiki/Enterprise_JavaBeans",
+                                      "id": 1021,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  }
                                 }
                               }
                             }
@@ -5190,7 +5202,23 @@
                             "collapsed": true
                           }
                         },
-                        "3": {
+                        "11": {
+                          "title": "about",
+                          "id": 1019,
+                          "ideas": {
+                            "1": {
+                              "title": "https://ru.wikipedia.org/wiki/ORM",
+                              "id": 1020,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "0.75": {
                           "title": "Hibernate",
                           "attr": {
                             "style": {},
@@ -5292,22 +5320,6 @@
                             }
                           },
                           "id": 453
-                        },
-                        "0.5": {
-                          "title": "about",
-                          "id": 1019,
-                          "ideas": {
-                            "1": {
-                              "title": "https://ru.wikipedia.org/wiki/ORM",
-                              "id": 1020,
-                              "attr": {
-                                "style": {}
-                              }
-                            }
-                          },
-                          "attr": {
-                            "style": {}
-                          }
                         }
                       }
                     }
