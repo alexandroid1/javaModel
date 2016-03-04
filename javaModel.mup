@@ -1703,13 +1703,15 @@
         "2": {
           "title": "java Standard",
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
               "title": "core Java",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -2374,7 +2376,8 @@
             "2": {
               "title": "OOP",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -3439,7 +3442,8 @@
             "5": {
               "title": "testing",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -3617,7 +3621,8 @@
                 "3": {
                   "title": "TestNG",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
@@ -3761,8 +3766,7 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           },
           "ideas": {
             "1": {
@@ -5207,8 +5211,7 @@
                 "3": {
                   "title": "the division into Lib / framework / container",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -5269,8 +5272,8 @@
                             }
                           },
                           "attr": {
-                            "collapsed": true,
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           }
                         }
                       },
@@ -5341,25 +5344,25 @@
                           },
                           "ideas": {
                             "1": {
-                              "title": "говорит, как должны выглядеть мои классы",
+                              "title": "how  should look like my classes",
                               "id": 485
                             },
                             "2": {
-                              "title": "создает экземпляры",
+                              "title": "   creates instances",
                               "attr": {
                                 "style": {}
                               },
                               "id": 486
                             },
                             "3": {
-                              "title": "жизненный цикл",
+                              "title": "   life cycle",
                               "attr": {
                                 "style": {}
                               },
                               "id": 487
                             },
                             "4": {
-                              "title": "он активный",
+                              "title": "   it is an active",
                               "attr": {
                                 "style": {}
                               },
