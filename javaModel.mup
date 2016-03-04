@@ -1703,15 +1703,13 @@
         "2": {
           "title": "java Standard",
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           },
           "ideas": {
             "1": {
               "title": "core Java",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
@@ -2376,8 +2374,7 @@
             "2": {
               "title": "OOP",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
@@ -2415,8 +2412,7 @@
                 "2": {
                   "title": "Aggregation, Composition",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -2800,8 +2796,8 @@
                       "attr": {
                         "style": {},
                         "position": [
-                          64.5,
-                          -168.046875,
+                          68,
+                          -170.419921875,
                           1
                         ],
                         "collapsed": true
@@ -3443,8 +3439,7 @@
             "5": {
               "title": "testing",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
@@ -3622,8 +3617,7 @@
                 "3": {
                   "title": "TestNG",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -3767,7 +3761,8 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -4685,7 +4680,8 @@
                 "1": {
                   "title": "Spring",
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   },
                   "ideas": {
                     "1": {
