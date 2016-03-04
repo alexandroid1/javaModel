@@ -1630,8 +1630,7 @@
     "0.5": {
       "title": "java",
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "1": {
@@ -3780,8 +3779,7 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           },
           "ideas": {
             "1": {
@@ -4693,48 +4691,359 @@
             "2": {
               "title": "frameworks",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
-                  "title": "Spring",
-                  "attr": {
-                    "style": {},
-                    "collapsed": true
-                  },
+                  "title": "DI",
+                  "id": 1015,
                   "ideas": {
-                    "1": {
-                      "title": "steps",
-                      "id": 964,
-                      "attr": {
-                        "style": {},
-                        "collapsed": true
-                      },
+                    "4": {
+                      "title": "Dependency Injection",
+                      "id": 1026,
                       "ideas": {
                         "1": {
-                          "title": "create",
-                          "id": 963,
+                          "title": "Spring",
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          },
                           "ideas": {
                             "1": {
-                              "title": "Intellij Idea",
-                              "id": 957,
+                              "title": "steps",
+                              "id": 964,
+                              "attr": {
+                                "style": {},
+                                "collapsed": true
+                              },
                               "ideas": {
                                 "1": {
-                                  "title": "File",
-                                  "id": 959,
+                                  "title": "create",
+                                  "id": 963,
                                   "ideas": {
                                     "1": {
-                                      "title": "new project",
-                                      "id": 960,
+                                      "title": "Intellij Idea",
+                                      "id": 957,
                                       "ideas": {
                                         "1": {
-                                          "title": "spring",
-                                          "id": 961,
+                                          "title": "File",
+                                          "id": 959,
                                           "ideas": {
                                             "1": {
-                                              "title": "spring configuration",
-                                              "id": 962
+                                              "title": "new project",
+                                              "id": 960,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "spring",
+                                                  "id": 961,
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "spring configuration",
+                                                      "id": 962
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                },
+                                "2": {
+                                  "title": "command",
+                                  "id": 967,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "mvn clean install",
+                                      "id": 968,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "target",
+                                          "id": 969,
+                                          "ideas": {
+                                            "1": {
+                                              "title": "jar",
+                                              "id": 970
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "4": {
+                              "title": "annotations",
+                              "id": 945,
+                              "ideas": {
+                                "1": {
+                                  "title": "@Autowired",
+                                  "id": 985,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "used for automatic dependency injection",
+                                      "id": 986,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "You mark them some property in the bean and Spring itself will create an instance, right to this property.",
+                                          "id": 987
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                },
+                                "2": {
+                                  "title": "@Required",
+                                  "id": 983,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "It notes the properties bean, which must be set.",
+                                      "id": 984
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                },
+                                "4": {
+                                  "title": "theory",
+                                  "id": 981,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Spring Framework Guide",
+                                      "id": 943,
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "https://ru.wikibooks.org/wiki/Spring_Framework_Guide",
+                                          "id": 946
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "title": "@Autowired in Spring 3",
+                                      "id": 953,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
+                                          "id": 955
+                                        }
+                                      },
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    },
+                                    "3": {
+                                      "title": "Spring autowired",
+                                      "id": 979,
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "http://ru.stackoverflow.com/questions/33520/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%B8-spring%D0%B0",
+                                          "id": 980
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "style": {}
+                              }
+                            },
+                            "6": {
+                              "title": "Spring Framework Artifacts",
+                              "id": 951,
+                              "ideas": {
+                                "1": {
+                                  "title": "table with all artifacts",
+                                  "id": 978,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#dependency-management",
+                                      "id": 952,
+                                      "attr": {
+                                        "style": {}
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "style": {}
+                                  }
+                                },
+                                "2": {
+                                  "title": "Spring Security",
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Log in",
+                                      "id": 451
+                                    },
+                                    "2": {
+                                      "title": "Log Out",
+                                      "id": 452
+                                    },
+                                    "3": {
+                                      "title": "Spring Security 3.1",
+                                      "id": 991,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Mark Serrano",
+                                          "id": 992,
+                                          "ideas": {
+                                            "1": {
+                                              "title": "http://krams915.blogspot.ru/",
+                                              "id": 993
+                                            },
+                                            "2": {
+                                              "title": "Functional Specs",
+                                              "id": 994,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-1.html",
+                                                  "id": 995
+                                                }
+                                              }
+                                            },
+                                            "3": {
+                                              "title": "Spring Social with JavaConfig",
+                                              "id": 996,
+                                              "attr": {
+                                                "style": {}
+                                              },
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-3.html",
+                                                  "id": 997
+                                                }
+                                              }
+                                            },
+                                            "4": {
+                                              "title": "Spring Security configuration",
+                                              "id": 998,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-4.html",
+                                                  "id": 999
+                                                }
+                                              }
+                                            },
+                                            "5": {
+                                              "title": "Spring Social with JavaConfig",
+                                              "id": 1000,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-5.html",
+                                                  "id": 1001
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "0.5": {
+                                          "title": "Spring MVC 3",
+                                          "id": 1006,
+                                          "ideas": {
+                                            "1": {
+                                              "title": "https://habrahabr.ru/post/248541/",
+                                              "id": 1007
+                                            }
+                                          },
+                                          "attr": {
+                                            "position": [
+                                              149,
+                                              -99.046875,
+                                              1
+                                            ],
+                                            "style": {}
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "id": 450
+                                },
+                                "3": {
+                                  "title": "Spring MVC",
+                                  "id": 956,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Spring MVC Video",
+                                      "attr": {
+                                        "style": {},
+                                        "collapsed": true
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "video",
+                                          "attr": {
+                                            "style": {}
+                                          },
+                                          "ideas": {
+                                            "1": {
+                                              "title": "https://www.youtube.com/watch?v=thTIKMQN22g",
+                                              "id": 445
+                                            },
+                                            "2": {
+                                              "title": "https://www.youtube.com/watch?v=64v-_R8Y_iw",
+                                              "id": 446
+                                            },
+                                            "3": {
+                                              "title": "https://www.youtube.com/watch?v=QDgBxm3brks",
+                                              "id": 447
+                                            },
+                                            "4": {
+                                              "title": "https://www.youtube.com/watch?v=lT-7BGP72_g",
+                                              "id": 448
+                                            },
+                                            "5": {
+                                              "title": "https://www.youtube.com/watch?v=itMV-7xP1NU",
+                                              "id": 449
+                                            }
+                                          },
+                                          "id": 444
+                                        }
+                                      },
+                                      "id": 443
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "title": "spring-context",
+                                  "id": 971,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "for Dependency Injection(DI)",
+                                      "id": 972,
+                                      "ideas": {
+                                        "2": {
+                                          "title": "maven",
+                                          "id": 974,
+                                          "ideas": {
+                                            "1": {
+                                              "title": "\n    <dependency>        <groupId>org.springframework</groupId>\n        <artifactId>spring-context</artifactId>\n        <version>4.1.5.RELEASE</version>\n    </dependency>\n",
+                                              "id": 973,
+                                              "attr": {
+                                                "style": {}
+                                              }
                                             }
                                           }
                                         }
@@ -4746,483 +5055,266 @@
                               "attr": {
                                 "style": {}
                               }
-                            }
-                          },
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "2": {
-                          "title": "command",
-                          "id": 967,
-                          "ideas": {
-                            "1": {
-                              "title": "mvn clean install",
-                              "id": 968,
+                            },
+                            "7": {
+                              "title": "Spring Framework without XML",
+                              "id": 988,
                               "ideas": {
                                 "1": {
-                                  "title": "target",
-                                  "id": 969,
+                                  "title": "https://habrahabr.ru/post/112488/",
+                                  "id": 990
+                                }
+                              },
+                              "attr": {
+                                "collapsed": true,
+                                "style": {}
+                              }
+                            },
+                            "0.5": {
+                              "title": "lessons",
+                              "id": 947,
+                              "ideas": {
+                                "1": {
+                                  "title": "lesson 1",
+                                  "id": 948,
                                   "ideas": {
-                                    "1": {
-                                      "title": "jar",
-                                      "id": 970
+                                    "2": {
+                                      "title": "http://spring-projects.ru/guides/lessons/lesson-1/",
+                                      "id": 950
                                     }
                                   }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    },
-                    "4": {
-                      "title": "annotations",
-                      "id": 945,
-                      "ideas": {
-                        "1": {
-                          "title": "@Autowired",
-                          "id": 985,
-                          "ideas": {
-                            "1": {
-                              "title": "used for automatic dependency injection",
-                              "id": 986,
-                              "ideas": {
-                                "1": {
-                                  "title": "You mark them some property in the bean and Spring itself will create an instance, right to this property.",
-                                  "id": 987
-                                }
-                              }
-                            }
-                          },
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "2": {
-                          "title": "@Required",
-                          "id": 983,
-                          "ideas": {
-                            "1": {
-                              "title": "It notes the properties bean, which must be set.",
-                              "id": 984
-                            }
-                          },
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "4": {
-                          "title": "theory",
-                          "id": 981,
-                          "ideas": {
-                            "1": {
-                              "title": "Spring Framework Guide",
-                              "id": 943,
-                              "attr": {
-                                "style": {}
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "https://ru.wikibooks.org/wiki/Spring_Framework_Guide",
-                                  "id": 946
-                                }
-                              }
-                            },
-                            "2": {
-                              "title": "@Autowired in Spring 3",
-                              "id": 953,
-                              "ideas": {
-                                "1": {
-                                  "title": "http://www.seostella.com/ru/article/2012/02/12/ispolzovanie-annotacii-autowired-v-spring-3.html",
-                                  "id": 955
-                                }
-                              },
-                              "attr": {
-                                "style": {}
-                              }
-                            },
-                            "3": {
-                              "title": "Spring autowired",
-                              "id": 979,
-                              "attr": {
-                                "style": {}
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "http://ru.stackoverflow.com/questions/33520/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D0%B8-spring%D0%B0",
-                                  "id": 980
-                                }
-                              }
-                            }
-                          }
-                        }
-                      },
-                      "attr": {
-                        "style": {}
-                      }
-                    },
-                    "6": {
-                      "title": "Spring Framework Artifacts",
-                      "id": 951,
-                      "ideas": {
-                        "1": {
-                          "title": "table with all artifacts",
-                          "id": 978,
-                          "ideas": {
-                            "1": {
-                              "title": "http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#dependency-management",
-                              "id": 952,
-                              "attr": {
-                                "style": {}
-                              }
-                            }
-                          },
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "2": {
-                          "title": "Spring Security",
-                          "attr": {
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "Log in",
-                              "id": 451
-                            },
-                            "2": {
-                              "title": "Log Out",
-                              "id": 452
-                            },
-                            "3": {
-                              "title": "Spring Security 3.1",
-                              "id": 991,
-                              "ideas": {
-                                "1": {
-                                  "title": "Mark Serrano",
-                                  "id": 992,
+                                },
+                                "2": {
+                                  "title": "lesson 2",
+                                  "id": 1003,
                                   "ideas": {
                                     "1": {
-                                      "title": "http://krams915.blogspot.ru/",
-                                      "id": 993
-                                    },
-                                    "2": {
-                                      "title": "Functional Specs",
-                                      "id": 994,
+                                      "title": "Spring IoC",
+                                      "id": 1004,
                                       "ideas": {
                                         "1": {
-                                          "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-1.html",
-                                          "id": 995
-                                        }
-                                      }
-                                    },
-                                    "3": {
-                                      "title": "Spring Social with JavaConfig",
-                                      "id": 996,
-                                      "attr": {
-                                        "style": {}
-                                      },
-                                      "ideas": {
-                                        "1": {
-                                          "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-3.html",
-                                          "id": 997
-                                        }
-                                      }
-                                    },
-                                    "4": {
-                                      "title": "Spring Security configuration",
-                                      "id": 998,
-                                      "ideas": {
-                                        "1": {
-                                          "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-4.html",
-                                          "id": 999
-                                        }
-                                      }
-                                    },
-                                    "5": {
-                                      "title": "Spring Social with JavaConfig",
-                                      "id": 1000,
-                                      "ideas": {
-                                        "1": {
-                                          "title": "http://krams915.blogspot.com/2012/12/spring-social-with-javaconfig-part-5.html",
-                                          "id": 1001
+                                          "title": "http://spring-projects.ru/guides/lessons/lesson-2/",
+                                          "id": 1005
                                         }
                                       }
                                     }
                                   }
                                 },
                                 "0.5": {
-                                  "title": "Spring MVC 3",
-                                  "id": 1006,
+                                  "title": "all lessons",
+                                  "id": 976,
                                   "ideas": {
                                     "1": {
-                                      "title": "https://habrahabr.ru/post/248541/",
-                                      "id": 1007
+                                      "title": "http://spring-projects.ru/",
+                                      "id": 977
                                     }
                                   },
                                   "attr": {
-                                    "position": [
-                                      149,
-                                      -99.046875,
-                                      1
-                                    ],
                                     "style": {}
                                   }
                                 }
+                              },
+                              "attr": {
+                                "position": [
+                                  77,
+                                  -83.5,
+                                  1
+                                ],
+                                "style": {}
                               }
                             }
                           },
-                          "id": 450
-                        },
-                        "3": {
-                          "title": "Spring MVC",
-                          "id": 956,
-                          "ideas": {
-                            "1": {
-                              "title": "Spring MVC Video",
-                              "attr": {
-                                "style": {},
-                                "collapsed": true
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "video",
-                                  "attr": {
-                                    "style": {}
-                                  },
-                                  "ideas": {
-                                    "1": {
-                                      "title": "https://www.youtube.com/watch?v=thTIKMQN22g",
-                                      "id": 445
-                                    },
-                                    "2": {
-                                      "title": "https://www.youtube.com/watch?v=64v-_R8Y_iw",
-                                      "id": 446
-                                    },
-                                    "3": {
-                                      "title": "https://www.youtube.com/watch?v=QDgBxm3brks",
-                                      "id": 447
-                                    },
-                                    "4": {
-                                      "title": "https://www.youtube.com/watch?v=lT-7BGP72_g",
-                                      "id": 448
-                                    },
-                                    "5": {
-                                      "title": "https://www.youtube.com/watch?v=itMV-7xP1NU",
-                                      "id": 449
-                                    }
-                                  },
-                                  "id": 444
-                                }
-                              },
-                              "id": 443
-                            }
-                          }
-                        },
-                        "4": {
-                          "title": "spring-context",
-                          "id": 971,
-                          "ideas": {
-                            "1": {
-                              "title": "for Dependency Injection(DI)",
-                              "id": 972,
-                              "ideas": {
-                                "2": {
-                                  "title": "maven",
-                                  "id": 974,
-                                  "ideas": {
-                                    "1": {
-                                      "title": "\n    <dependency>        <groupId>org.springframework</groupId>\n        <artifactId>spring-context</artifactId>\n        <version>4.1.5.RELEASE</version>\n    </dependency>\n",
-                                      "id": 973,
-                                      "attr": {
-                                        "style": {}
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      },
-                      "attr": {
-                        "style": {}
-                      }
-                    },
-                    "7": {
-                      "title": "Spring Framework without XML",
-                      "id": 988,
-                      "ideas": {
-                        "1": {
-                          "title": "https://habrahabr.ru/post/112488/",
-                          "id": 990
-                        }
-                      },
-                      "attr": {
-                        "collapsed": true,
-                        "style": {}
-                      }
-                    },
-                    "0.5": {
-                      "title": "lessons",
-                      "id": 947,
-                      "ideas": {
-                        "1": {
-                          "title": "lesson 1",
-                          "id": 948,
-                          "ideas": {
-                            "2": {
-                              "title": "http://spring-projects.ru/guides/lessons/lesson-1/",
-                              "id": 950
-                            }
-                          }
+                          "id": 442
                         },
                         "2": {
-                          "title": "lesson 2",
-                          "id": 1003,
+                          "title": "Google Guice",
+                          "id": 1022,
                           "ideas": {
                             "1": {
-                              "title": "Spring IoC",
-                              "id": 1004,
-                              "ideas": {
-                                "1": {
-                                  "title": "http://spring-projects.ru/guides/lessons/lesson-2/",
-                                  "id": 1005
-                                }
-                              }
+                              "title": "http://stackoverflow.com/questions/2026016/google-guice-vs-picocontainer-for-dependency-injection",
+                              "id": 1024
                             }
+                          },
+                          "attr": {
+                            "style": {}
                           }
                         },
-                        "0.5": {
-                          "title": "all lessons",
-                          "id": 976,
+                        "3": {
+                          "title": "PicoContainer",
+                          "id": 1023,
                           "ideas": {
                             "1": {
-                              "title": "http://spring-projects.ru/",
-                              "id": 977
+                              "title": "http://stackoverflow.com/questions/2026016/google-guice-vs-picocontainer-for-dependency-injection",
+                              "id": 1025
                             }
                           },
                           "attr": {
                             "style": {}
                           }
                         }
-                      },
-                      "attr": {
-                        "position": [
-                          77,
-                          -83.5,
-                          1
-                        ],
-                        "style": {}
                       }
                     }
                   },
-                  "id": 442
+                  "attr": {
+                    "style": {}
+                  }
                 },
                 "2": {
-                  "title": "Hibernate",
-                  "attr": {
-                    "style": {},
-                    "collapsed": true
-                  },
+                  "title": "ORM",
+                  "id": 1014,
                   "ideas": {
-                    "1": {
-                      "title": "to read",
-                      "attr": {
-                        "style": {},
-                        "collapsed": true
-                      },
+                    "4": {
+                      "title": "Object-Relational Mapping",
+                      "id": 1018,
                       "ideas": {
                         "1": {
-                          "title": "Java Hibernate. Part 1 - Introduction",
+                          "title": "EJB",
+                          "id": 1017,
                           "ideas": {
                             "1": {
-                              "title": "http://javaxblog.ru/article/java-hibernate-1/",
-                              "id": 456
-                            }
-                          },
-                          "id": 455
-                        },
-                        "2": {
-                          "title": "Java Hibernate. Part 2 - Request",
-                          "ideas": {
-                            "1": {
-                              "title": "http://javaxblog.ru/article/java-hibernate-2/",
-                              "id": 458
-                            }
-                          },
-                          "id": 457
-                        }
-                      },
-                      "id": 454
-                    },
-                    "2": {
-                      "title": "video",
-                      "attr": {
-                        "style": {}
-                      },
-                      "ideas": {
-                        "1": {
-                          "title": "Education online",
-                          "ideas": {
-                            "1": {
-                              "title": "Java hibernate: Setting configs, lesson 1!\n  ",
+                              "title": "Enterprise JavaBeans",
+                              "id": 1016,
                               "attr": {
                                 "style": {}
                               },
                               "ideas": {
                                 "1": {
-                                  "title": "https://www.youtube.com/watch?v=1qYOxJ-OEWs&list=PLi3gxGWPyGGQsEZyjQNPoUEHwNtxiMf-0",
-                                  "id": 462
+                                  "title": "https://en.wikipedia.org/wiki/Enterprise_JavaBeans",
+                                  "id": 1021
                                 }
-                              },
-                              "id": 461
+                              }
                             }
                           },
-                          "id": 460
-                        },
-                        "2": {
-                          "title": "Patrick WashingtonDC",
-                          "ideas": {
-                            "1": {
-                              "title": "\n    Java Hibernate Tutorial Part 1 - setup\n  ",
-                              "ideas": {
-                                "1": {
-                                  "title": "https://www.youtube.com/watch?v=GINvxAaXDbY&list=PL5745BA630E2195D9",
-                                  "attr": {
-                                    "style": {}
-                                  },
-                                  "id": 465
-                                }
-                              },
-                              "id": 464
-                            }
-                          },
-                          "id": 463
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          }
                         },
                         "3": {
-                          "title": "gontuseries",
+                          "title": "Hibernate",
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          },
                           "ideas": {
                             "1": {
-                              "title": "Hibernate Tutorial Part 1 - Introduction to Hibernate ( Concept)\n  ",
+                              "title": "to read",
+                              "attr": {
+                                "style": {},
+                                "collapsed": true
+                              },
                               "ideas": {
                                 "1": {
-                                  "title": "https://www.youtube.com/watch?v=onS9G0zpQwA&list=PLBgMUB7xGcO0cujAlaeDDEOdZkeNZUScM&index=1",
-                                  "id": 468
+                                  "title": "Java Hibernate. Part 1 - Introduction",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "http://javaxblog.ru/article/java-hibernate-1/",
+                                      "id": 456
+                                    }
+                                  },
+                                  "id": 455
+                                },
+                                "2": {
+                                  "title": "Java Hibernate. Part 2 - Request",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "http://javaxblog.ru/article/java-hibernate-2/",
+                                      "id": 458
+                                    }
+                                  },
+                                  "id": 457
                                 }
                               },
-                              "id": 467
+                              "id": 454
+                            },
+                            "2": {
+                              "title": "video",
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "Education online",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Java hibernate: Setting configs, lesson 1!\n  ",
+                                      "attr": {
+                                        "style": {}
+                                      },
+                                      "ideas": {
+                                        "1": {
+                                          "title": "https://www.youtube.com/watch?v=1qYOxJ-OEWs&list=PLi3gxGWPyGGQsEZyjQNPoUEHwNtxiMf-0",
+                                          "id": 462
+                                        }
+                                      },
+                                      "id": 461
+                                    }
+                                  },
+                                  "id": 460
+                                },
+                                "2": {
+                                  "title": "Patrick WashingtonDC",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "\n    Java Hibernate Tutorial Part 1 - setup\n  ",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "https://www.youtube.com/watch?v=GINvxAaXDbY&list=PL5745BA630E2195D9",
+                                          "attr": {
+                                            "style": {}
+                                          },
+                                          "id": 465
+                                        }
+                                      },
+                                      "id": 464
+                                    }
+                                  },
+                                  "id": 463
+                                },
+                                "3": {
+                                  "title": "gontuseries",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "Hibernate Tutorial Part 1 - Introduction to Hibernate ( Concept)\n  ",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "https://www.youtube.com/watch?v=onS9G0zpQwA&list=PLBgMUB7xGcO0cujAlaeDDEOdZkeNZUScM&index=1",
+                                          "id": 468
+                                        }
+                                      },
+                                      "id": 467
+                                    }
+                                  },
+                                  "id": 466
+                                }
+                              },
+                              "id": 459
                             }
                           },
-                          "id": 466
+                          "id": 453
+                        },
+                        "0.5": {
+                          "title": "about",
+                          "id": 1019,
+                          "ideas": {
+                            "1": {
+                              "title": "https://ru.wikipedia.org/wiki/ORM",
+                              "id": 1020,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
                         }
-                      },
-                      "id": 459
+                      }
                     }
                   },
-                  "id": 453
+                  "attr": {
+                    "style": {}
+                  }
                 },
                 "3": {
                   "title": "the division into Lib / framework / container",
