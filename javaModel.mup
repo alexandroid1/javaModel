@@ -1630,7 +1630,8 @@
     "0.5": {
       "title": "java",
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -3779,7 +3780,8 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -4691,7 +4693,8 @@
             "2": {
               "title": "frameworks",
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               },
               "ideas": {
                 "1": {
@@ -5158,7 +5161,8 @@
                     }
                   },
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   }
                 },
                 "2": {
@@ -5215,7 +5219,8 @@
                             }
                           },
                           "attr": {
-                            "style": {}
+                            "style": {},
+                            "collapsed": true
                           }
                         },
                         "0.75": {
@@ -5325,7 +5330,8 @@
                     }
                   },
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   }
                 },
                 "3": {
