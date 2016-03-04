@@ -582,7 +582,8 @@
     "3": {
       "title": "development",
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -1629,7 +1630,8 @@
     "0.5": {
       "title": "java",
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
