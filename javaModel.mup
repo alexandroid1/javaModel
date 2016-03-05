@@ -4612,6 +4612,40 @@
                           "id": 1030
                         }
                       }
+                    },
+                    "8": {
+                      "title": "access levels",
+                      "id": 1035,
+                      "ideas": {
+                        "1": {
+                          "title": "page",
+                          "id": 1031,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "request",
+                          "id": 1032,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "3": {
+                          "title": "session",
+                          "id": 1033,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "4": {
+                          "title": "container",
+                          "id": 1034,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
                     }
                   },
                   "id": 427
