@@ -1630,8 +1630,7 @@
     "0.5": {
       "title": "java",
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       },
       "ideas": {
         "1": {
@@ -3780,15 +3779,13 @@
         "3": {
           "title": "java Enterprise",
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           },
           "ideas": {
             "1": {
               "title": "tomcat / servlet / JSP",
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
@@ -4583,8 +4580,7 @@
                 "3": {
                   "title": " JSP",
                   "attr": {
-                    "style": {},
-                    "collapsed": true
+                    "style": {}
                   },
                   "ideas": {
                     "1": {
@@ -4606,6 +4602,16 @@
                         }
                       },
                       "id": 430
+                    },
+                    "3": {
+                      "title": "getID example",
+                      "id": 1029,
+                      "ideas": {
+                        "1": {
+                          "title": "((Quiz)request.getAttribute(\"quiz\")).getId()",
+                          "id": 1030
+                        }
+                      }
                     }
                   },
                   "id": 427
