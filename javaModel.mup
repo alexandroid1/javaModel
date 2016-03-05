@@ -1636,7 +1636,8 @@
         "1": {
           "title": "Education for Java",
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -1646,17 +1647,56 @@
                 "collapsed": true
               },
               "ideas": {
-                "1": {
-                  "title": "https://www.youtube.com/user/KharkovITCourses/videos",
-                  "id": 6
+                "4": {
+                  "title": "yuriy tkach",
+                  "id": 1057,
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.youtube.com/user/ytkach/videos",
+                      "id": 8,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
                 },
-                "2": {
-                  "title": "https://www.youtube.com/user/devcolibri/videos",
-                  "id": 7
+                "0.5": {
+                  "title": "KharkovITCourses",
+                  "id": 1054,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "2": {
+                      "title": "Golovach",
+                      "id": 1055,
+                      "ideas": {
+                        "1": {
+                          "title": "https://www.youtube.com/user/KharkovITCourses/videos",
+                          "id": 6,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
+                  }
                 },
-                "3": {
-                  "title": "https://www.youtube.com/user/ytkach/videos",
-                  "id": 8
+                "1.75": {
+                  "title": "devcolibri",
+                  "id": 1056,
+                  "ideas": {
+                    "1": {
+                      "title": "https://www.youtube.com/user/devcolibri/videos",
+                      "id": 7,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
                 }
               },
               "id": 5
@@ -1682,18 +1722,34 @@
               "id": 9
             },
             "3": {
-              "title": "JIT-compiler JAVA eyes Java-programmer",
+              "title": "conferences",
+              "id": 1058,
+              "ideas": {
+                "2": {
+                  "title": "jee conf",
+                  "id": 1059,
+                  "ideas": {
+                    "1": {
+                      "title": "JIT-compiler JAVA eyes Java-programmer",
+                      "attr": {
+                        "style": {},
+                        "collapsed": true
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "http://jeeconf.com/archive/jeeconf-2013/materials/jit-compiler/",
+                          "id": 13
+                        }
+                      },
+                      "id": 12
+                    }
+                  }
+                }
+              },
               "attr": {
                 "style": {},
                 "collapsed": true
-              },
-              "ideas": {
-                "1": {
-                  "title": "http://jeeconf.com/archive/jeeconf-2013/materials/jit-compiler/",
-                  "id": 13
-                }
-              },
-              "id": 12
+              }
             },
             "4": {
               "title": "Java Junior - requirements when applying for a job\n  ",
@@ -3942,7 +3998,284 @@
                   },
                   "id": 323
                 },
-                "2": {
+                "3": {
+                  "title": " JSP",
+                  "attr": {
+                    "style": {},
+                    "collapsed": true
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Run your first JSP program in Apache Tomcat Server",
+                      "ideas": {
+                        "1": {
+                          "title": "http://www.tutorialspoint.com/articles/run-your-first-jsp-program-in-apache-tomcat-server",
+                          "id": 429
+                        }
+                      },
+                      "id": 428
+                    },
+                    "2": {
+                      "title": "JSP Hello World Example using Eclipse IDE and Tomcat web server",
+                      "ideas": {
+                        "1": {
+                          "title": "JSP Hello World Example using Eclipse IDE and Tomcat web server",
+                          "id": 431
+                        }
+                      },
+                      "id": 430
+                    },
+                    "3": {
+                      "title": "getID example",
+                      "id": 1029,
+                      "ideas": {
+                        "1": {
+                          "title": "((Quiz)request.getAttribute(\"quiz\")).getId()",
+                          "id": 1030
+                        }
+                      }
+                    },
+                    "8": {
+                      "title": "access levels",
+                      "id": 1035,
+                      "ideas": {
+                        "1": {
+                          "title": "page",
+                          "id": 1031,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "request",
+                          "id": 1032,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "3": {
+                          "title": "session",
+                          "id": 1033,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "4": {
+                          "title": "container",
+                          "id": 1034,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    }
+                  },
+                  "id": 427
+                },
+                "4": {
+                  "title": "Learn the basics of the web and Tomcat.",
+                  "attr": {
+                    "style": {},
+                    "collapsed": true
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "It is necessary to make your business logic and DAO layer last remaining\n part - UI.",
+                      "ideas": {
+                        "1": {
+                          "title": "   While the servlet and JSP.",
+                          "attr": {
+                            "style": {}
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "   It is necessary to make the JSP\n addressed the business logic for its data.",
+                              "ideas": {
+                                "1": {
+                                  "title": "She requested data from the database\n and returns them to the View (JSP).",
+                                  "ideas": {},
+                                  "id": 436
+                                }
+                              },
+                              "id": 435
+                            },
+                            "2": {
+                              "title": "By clicking on the button in the JSP ",
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "2": {
+                                  "title": "control\n transferred into a servlet ",
+                                  "id": 939,
+                                  "ideas": {
+                                    "2": {
+                                      "title": "that sends to the business logic  command\n< change state >.",
+                                      "id": 940,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "And that changes the data in the database\n using the DAO layer.",
+                                          "id": 438,
+                                          "attr": {
+                                            "style": {}
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "id": 437
+                            },
+                            "3": {
+                              "title": "And then send control back to servlets\n in the JSP (eg - a redirect), and then all repeated.",
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "You've got\n watch closely to any requests from the JSP did not climb to the DAO layer.",
+                                  "id": 440
+                                }
+                              },
+                              "id": 439
+                            }
+                          },
+                          "id": 434
+                        }
+                      },
+                      "id": 433
+                    }
+                  },
+                  "id": 432
+                },
+                "0.5": {
+                  "title": "theory video",
+                  "id": 1037,
+                  "ideas": {
+                    "2": {
+                      "title": "video",
+                      "attr": {
+                        "style": {}
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Java Junior February: Servlet API/JSP",
+                          "ideas": {
+                            "1": {
+                              "title": "Java Junior February: Servlet API / JSP. Lecture # 11 (Part 1)\n  ",
+                              "attr": {
+                                "position": [
+                                  180.5,
+                                  -146,
+                                  1
+                                ],
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "https://www.youtube.com/watch?v=nX-TNn9tKsQ",
+                                  "id": 1042
+                                }
+                              },
+                              "id": 1041
+                            },
+                            "2": {
+                              "title": "   Java Junior February: Servlet API / JSP. Lecture # 11 (Part 2)\n  ",
+                              "ideas": {
+                                "1": {
+                                  "title": "https://www.youtube.com/watch?v=zCxOl9z3mp0",
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "id": 1044
+                                }
+                              },
+                              "id": 1043
+                            },
+                            "3": {
+                              "title": "Java Junior February: Servlet API / JSP. Lecture # 11 (Part 3)\n  ",
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "https://www.youtube.com/watch?v=t8Geypt5_N4",
+                                  "ideas": {},
+                                  "id": 1046
+                                }
+                              },
+                              "id": 1045
+                            },
+                            "4": {
+                              "title": "   Java Junior February: Servlet API / JSP. Lecture # 11 (Part 4)\n  ",
+                              "ideas": {
+                                "1": {
+                                  "title": "https://www.youtube.com/watch?v=Rxc5WJRJgbY&spfreload=1",
+                                  "attr": {
+                                    "style": {}
+                                  },
+                                  "id": 1048
+                                }
+                              },
+                              "id": 1047
+                            }
+                          },
+                          "id": 1040,
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          }
+                        },
+                        "2": {
+                          "title": "   Servlet. Lecture",
+                          "attr": {
+                            "style": {}
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "   Java Junior February: Servlet. Lecture # 12 (Part 1)\n  ",
+                              "attr": {
+                                "style": {}
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": "https://www.youtube.com/watch?v=7O0FRZRAS68&ebc=ANyPxKqfBmMEPCYJaZ6Gbj0Bd4T0lno4D-gHFj9ZZTOZfSQPUGWxElcVWtvDA7Cj464ZWqXCL11MMsjJbQpL2ihHEzgPqkZAgg",
+                                  "id": 1051
+                                }
+                              },
+                              "id": 1050
+                            }
+                          },
+                          "id": 1049
+                        },
+                        "3": {
+                          "title": "Golovach Ivan «Servlet API per hour» IT talk # 28 (Kharkiv)\n  ",
+                          "attr": {
+                            "style": {},
+                            "collapsed": true
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "https://www.youtube.com/watch?v=3c_5l686s3c",
+                              "id": 1053
+                            }
+                          },
+                          "id": 1052
+                        }
+                      },
+                      "id": 1039
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3.5": {
                   "title": "servlet API",
                   "attr": {
                     "style": {},
@@ -4575,156 +4908,6 @@
                     }
                   },
                   "id": 342
-                },
-                "3": {
-                  "title": " JSP",
-                  "attr": {
-                    "style": {}
-                  },
-                  "ideas": {
-                    "1": {
-                      "title": "Run your first JSP program in Apache Tomcat Server",
-                      "ideas": {
-                        "1": {
-                          "title": "http://www.tutorialspoint.com/articles/run-your-first-jsp-program-in-apache-tomcat-server",
-                          "id": 429
-                        }
-                      },
-                      "id": 428
-                    },
-                    "2": {
-                      "title": "JSP Hello World Example using Eclipse IDE and Tomcat web server",
-                      "ideas": {
-                        "1": {
-                          "title": "JSP Hello World Example using Eclipse IDE and Tomcat web server",
-                          "id": 431
-                        }
-                      },
-                      "id": 430
-                    },
-                    "3": {
-                      "title": "getID example",
-                      "id": 1029,
-                      "ideas": {
-                        "1": {
-                          "title": "((Quiz)request.getAttribute(\"quiz\")).getId()",
-                          "id": 1030
-                        }
-                      }
-                    },
-                    "8": {
-                      "title": "access levels",
-                      "id": 1035,
-                      "ideas": {
-                        "1": {
-                          "title": "page",
-                          "id": 1031,
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "2": {
-                          "title": "request",
-                          "id": 1032,
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "3": {
-                          "title": "session",
-                          "id": 1033,
-                          "attr": {
-                            "style": {}
-                          }
-                        },
-                        "4": {
-                          "title": "container",
-                          "id": 1034,
-                          "attr": {
-                            "style": {}
-                          }
-                        }
-                      }
-                    }
-                  },
-                  "id": 427
-                },
-                "4": {
-                  "title": "Learn the basics of the web and Tomcat.",
-                  "attr": {
-                    "style": {},
-                    "collapsed": true
-                  },
-                  "ideas": {
-                    "1": {
-                      "title": "It is necessary to make your business logic and DAO layer last remaining\n part - UI.",
-                      "ideas": {
-                        "1": {
-                          "title": "   While the servlet and JSP.",
-                          "attr": {
-                            "style": {}
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "   It is necessary to make the JSP\n addressed the business logic for its data.",
-                              "ideas": {
-                                "1": {
-                                  "title": "She requested data from the database\n and returns them to the View (JSP).",
-                                  "ideas": {},
-                                  "id": 436
-                                }
-                              },
-                              "id": 435
-                            },
-                            "2": {
-                              "title": "By clicking on the button in the JSP ",
-                              "attr": {
-                                "style": {}
-                              },
-                              "ideas": {
-                                "2": {
-                                  "title": "control\n transferred into a servlet ",
-                                  "id": 939,
-                                  "ideas": {
-                                    "2": {
-                                      "title": "that sends to the business logic  command\n< change state >.",
-                                      "id": 940,
-                                      "ideas": {
-                                        "1": {
-                                          "title": "And that changes the data in the database\n using the DAO layer.",
-                                          "id": 438,
-                                          "attr": {
-                                            "style": {}
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              },
-                              "id": 437
-                            },
-                            "3": {
-                              "title": "And then send control back to servlets\n in the JSP (eg - a redirect), and then all repeated.",
-                              "attr": {
-                                "style": {}
-                              },
-                              "ideas": {
-                                "1": {
-                                  "title": "You've got\n watch closely to any requests from the JSP did not climb to the DAO layer.",
-                                  "id": 440
-                                }
-                              },
-                              "id": 439
-                            }
-                          },
-                          "id": 434
-                        }
-                      },
-                      "id": 433
-                    }
-                  },
-                  "id": 432
                 }
               },
               "id": 322
